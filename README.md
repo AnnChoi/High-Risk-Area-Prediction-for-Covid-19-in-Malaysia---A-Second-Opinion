@@ -8,3 +8,10 @@ Epidemic which crashes in 2020 is unpredictable and brings a huge impact globall
 ### Brief explanation of the project
 https://drive.google.com/file/d/17PHlhxPK12HrEpooYecOZF6Km9fbKqGs/view?usp=sharing
 
+#### Notes
+Do install Anaconda and relevant packages found in deploy.py in order to run the webpage.
+Then, follow instructions in README.txt to launch.
+https://docs.anaconda.com/anaconda/install/windows/
+https://jupyter.org/install
+
+The complete research paper is not shared due to copyrights, email for more enquires, thanks.
