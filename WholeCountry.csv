@@ -1,0 +1,3249 @@
+State,Date,NumberofConfirmedCases
+Perlis,20/3/2020,0
+Kedah,20/3/2020,1
+Pulau Pinang,20/3/2020,5
+Perak,20/3/2020,10
+Selangor,20/3/2020,40
+Negeri Sembilan,20/3/2020,9
+Melaka,20/3/2020,2
+Johor,20/3/2020,13
+Pahang,20/3/2020,4
+Terengganu,20/3/2020,9
+Kelantan,20/3/2020,7
+Sabah,20/3/2020,7
+Sarawak,20/3/2020,7
+Kuala Lumpur,20/3/2020,16
+Putrajaya,20/3/2020,0
+Labuan,20/3/2020,0
+Perlis,21/3/2020,0
+Kedah,21/3/2020,11
+Pulau Pinang,21/3/2020,13
+Perak,21/3/2020,10
+Selangor,21/3/2020,29
+Negeri Sembilan,21/3/2020,5
+Melaka,21/3/2020,0
+Johor,21/3/2020,15
+Pahang,21/3/2020,1
+Terengganu,21/3/2020,7
+Kelantan,21/3/2020,10
+Sabah,21/3/2020,17
+Sarawak,21/3/2020,10
+Kuala Lumpur,21/3/2020,27
+Putrajaya,21/3/2020,3
+Labuan,21/3/2020,0
+Perlis,22/3/2020,0
+Kedah,22/3/2020,5
+Pulau Pinang,22/3/2020,8
+Perak,22/3/2020,11
+Selangor,22/3/2020,17
+Negeri Sembilan,22/3/2020,8
+Melaka,22/3/2020,1
+Johor,22/3/2020,16
+Pahang,22/3/2020,3
+Terengganu,22/3/2020,5
+Kelantan,22/3/2020,2
+Sabah,22/3/2020,22
+Sarawak,22/3/2020,8
+Kuala Lumpur,22/3/2020,17
+Putrajaya,22/3/2020,0
+Labuan,22/3/2020,0
+Perlis,23/3/2020,0
+Kedah,23/3/2020,2
+Pulau Pinang,23/3/2020,8
+Perak,23/3/2020,15
+Selangor,23/3/2020,45
+Negeri Sembilan,23/3/2020,16
+Melaka,23/3/2020,2
+Johor,23/3/2020,13
+Pahang,23/3/2020,16
+Terengganu,23/3/2020,6
+Kelantan,23/3/2020,8
+Sabah,23/3/2020,11
+Sarawak,23/3/2020,2
+Kuala Lumpur,23/3/2020,59
+Putrajaya,23/3/2020,4
+Labuan,23/3/2020,0
+Perlis,24/3/2020,0
+Kedah,24/3/2020,5
+Pulau Pinang,24/3/2020,2
+Perak,24/3/2020,17
+Selangor,24/3/2020,27
+Negeri Sembilan,24/3/2020,15
+Melaka,24/3/2020,6
+Johor,24/3/2020,4
+Pahang,24/3/2020,0
+Terengganu,24/3/2020,0
+Kelantan,24/3/2020,7
+Sabah,24/3/2020,1
+Sarawak,24/3/2020,5
+Kuala Lumpur,24/3/2020,15
+Putrajaya,24/3/2020,2
+Labuan,24/3/2020,0
+Perlis,25/3/2020,1
+Kedah,25/3/2020,5
+Pulau Pinang,25/3/2020,2
+Perak,25/3/2020,30
+Selangor,25/3/2020,54
+Negeri Sembilan,25/3/2020,14
+Melaka,25/3/2020,2
+Johor,25/3/2020,34
+Pahang,25/3/2020,8
+Terengganu,25/3/2020,0
+Kelantan,25/3/2020,6
+Sabah,25/3/2020,0
+Sarawak,25/3/2020,2
+Kuala Lumpur,25/3/2020,13
+Putrajaya,25/3/2020,1
+Labuan,25/3/2020,0
+Perlis,26/3/2020,0
+Kedah,26/3/2020,3
+Pulau Pinang,26/3/2020,4
+Perak,26/3/2020,23
+Selangor,26/3/2020,75
+Negeri Sembilan,26/3/2020,9
+Melaka,26/3/2020,0
+Johor,26/3/2020,43
+Pahang,26/3/2020,2
+Terengganu,26/3/2020,1
+Kelantan,26/3/2020,10
+Sabah,26/3/2020,2
+Sarawak,26/3/2020,10
+Kuala Lumpur,26/3/2020,51
+Putrajaya,26/3/2020,2
+Labuan,26/3/2020,0
+Perlis,27/3/2020,0
+Kedah,27/3/2020,1
+Pulau Pinang,27/3/2020,6
+Perak,27/3/2020,8
+Selangor,27/3/2020,36
+Negeri Sembilan,27/3/2020,6
+Melaka,27/3/2020,0
+Johor,27/3/2020,20
+Pahang,27/3/2020,4
+Terengganu,27/3/2020,2
+Kelantan,27/3/2020,4
+Sabah,27/3/2020,10
+Sarawak,27/3/2020,15
+Kuala Lumpur,27/3/2020,16
+Putrajaya,27/3/2020,2
+Labuan,27/3/2020,0
+Perlis,28/3/2020,0
+Kedah,28/3/2020,1
+Pulau Pinang,28/3/2020,6
+Perak,28/3/2020,6
+Selangor,28/3/2020,33
+Negeri Sembilan,28/3/2020,15
+Melaka,28/3/2020,9
+Johor,28/3/2020,26
+Pahang,28/3/2020,14
+Terengganu,28/3/2020,4
+Kelantan,28/3/2020,10
+Sabah,28/3/2020,15
+Sarawak,28/3/2020,8
+Kuala Lumpur,28/3/2020,7
+Putrajaya,28/3/2020,0
+Labuan,28/3/2020,5
+Perlis,29/3/2020,0
+Kedah,29/3/2020,1
+Pulau Pinang,29/3/2020,1
+Perak,29/3/2020,11
+Selangor,29/3/2020,33
+Negeri Sembilan,29/3/2020,9
+Melaka,29/3/2020,1
+Johor,29/3/2020,24
+Pahang,29/3/2020,12
+Terengganu,29/3/2020,2
+Kelantan,29/3/2020,15
+Sabah,29/3/2020,0
+Sarawak,29/3/2020,11
+Kuala Lumpur,29/3/2020,28
+Putrajaya,29/3/2020,2
+Labuan,29/3/2020,0
+Perlis,30/3/2020,1
+Kedah,30/3/2020,2
+Pulau Pinang,30/3/2020,1
+Perak,30/3/2020,8
+Selangor,30/3/2020,60
+Negeri Sembilan,30/3/2020,10
+Melaka,30/3/2020,7
+Johor,30/3/2020,24
+Pahang,30/3/2020,3
+Terengganu,30/3/2020,0
+Kelantan,30/3/2020,4
+Sabah,30/3/2020,4
+Sarawak,30/3/2020,6
+Kuala Lumpur,30/3/2020,24
+Putrajaya,30/3/2020,2
+Labuan,30/3/2020,0
+Perlis,31/3/2020,1
+Kedah,31/3/2020,0
+Pulau Pinang,31/3/2020,6
+Perak,31/3/2020,5
+Selangor,31/3/2020,32
+Negeri Sembilan,31/3/2020,9
+Melaka,31/3/2020,2
+Johor,31/3/2020,16
+Pahang,31/3/2020,3
+Terengganu,31/3/2020,0
+Kelantan,31/3/2020,4
+Sabah,31/3/2020,5
+Sarawak,31/3/2020,21
+Kuala Lumpur,31/3/2020,34
+Putrajaya,31/3/2020,2
+Labuan,31/3/2020,0
+Perlis,1/4/2020,0
+Kedah,1/4/2020,2
+Pulau Pinang,1/4/2020,2
+Perak,1/4/2020,5
+Selangor,1/4/2020,22
+Negeri Sembilan,1/4/2020,8
+Melaka,1/4/2020,11
+Johor,1/4/2020,19
+Pahang,1/4/2020,9
+Terengganu,1/4/2020,1
+Kelantan,1/4/2020,3
+Sabah,1/4/2020,3
+Sarawak,1/4/2020,32
+Kuala Lumpur,1/4/2020,25
+Putrajaya,1/4/2020,0
+Labuan,1/4/2020,0
+Perlis,2/4/2020,0
+Kedah,2/4/2020,1
+Pulau Pinang,2/4/2020,2
+Perak,2/4/2020,6
+Selangor,2/4/2020,74
+Negeri Sembilan,2/4/2020,18
+Melaka,2/4/2020,7
+Johor,2/4/2020,27
+Pahang,2/4/2020,3
+Terengganu,2/4/2020,2
+Kelantan,2/4/2020,3
+Sabah,2/4/2020,1
+Sarawak,2/4/2020,23
+Kuala Lumpur,2/4/2020,34
+Putrajaya,2/4/2020,7
+Labuan,2/4/2020,0
+Perlis,3/4/2020,0
+Kedah,3/4/2020,1
+Pulau Pinang,3/4/2020,0
+Perak,3/4/2020,5
+Selangor,3/4/2020,63
+Negeri Sembilan,3/4/2020,4
+Melaka,3/4/2020,3
+Johor,3/4/2020,21
+Pahang,3/4/2020,13
+Terengganu,3/4/2020,18
+Kelantan,3/4/2020,0
+Sabah,3/4/2020,5
+Sarawak,3/4/2020,28
+Kuala Lumpur,3/4/2020,55
+Putrajaya,3/4/2020,1
+Labuan,3/4/2020,0
+Perlis,4/4/2020,0
+Kedah,4/4/2020,0
+Pulau Pinang,4/4/2020,1
+Perak,4/4/2020,2
+Selangor,4/4/2020,27
+Negeri Sembilan,4/4/2020,9
+Melaka,4/4/2020,2
+Johor,4/4/2020,6
+Pahang,4/4/2020,24
+Terengganu,4/4/2020,6
+Kelantan,4/4/2020,2
+Sabah,4/4/2020,10
+Sarawak,4/4/2020,7
+Kuala Lumpur,4/4/2020,52
+Putrajaya,4/4/2020,1
+Labuan,4/4/2020,1
+Perlis,5/4/2020,1
+Kedah,5/4/2020,1
+Pulau Pinang,5/4/2020,2
+Perak,5/4/2020,6
+Selangor,5/4/2020,53
+Negeri Sembilan,5/4/2020,11
+Melaka,5/4/2020,14
+Johor,5/4/2020,16
+Pahang,5/4/2020,7
+Terengganu,5/4/2020,10
+Kelantan,5/4/2020,2
+Sabah,5/4/2020,13
+Sarawak,5/4/2020,15
+Kuala Lumpur,5/4/2020,27
+Putrajaya,5/4/2020,1
+Labuan,5/4/2020,0
+Perlis,6/4/2020,0
+Kedah,6/4/2020,3
+Pulau Pinang,6/4/2020,0
+Perak,6/4/2020,6
+Selangor,6/4/2020,27
+Negeri Sembilan,6/4/2020,8
+Melaka,6/4/2020,10
+Johor,6/4/2020,30
+Pahang,6/4/2020,3
+Terengganu,6/4/2020,6
+Kelantan,6/4/2020,1
+Sabah,6/4/2020,2
+Sarawak,6/4/2020,12
+Kuala Lumpur,6/4/2020,18
+Putrajaya,6/4/2020,4
+Labuan,6/4/2020,1
+Perlis,7/4/2020,4
+Kedah,7/4/2020,5
+Pulau Pinang,7/4/2020,1
+Perak,7/4/2020,14
+Selangor,7/4/2020,50
+Negeri Sembilan,7/4/2020,22
+Melaka,7/4/2020,4
+Johor,7/4/2020,10
+Pahang,7/4/2020,5
+Terengganu,7/4/2020,0
+Kelantan,7/4/2020,5
+Sabah,7/4/2020,1
+Sarawak,7/4/2020,15
+Kuala Lumpur,7/4/2020,31
+Putrajaya,7/4/2020,2
+Labuan,7/4/2020,1
+Perlis,8/4/2020,0
+Kedah,8/4/2020,1
+Pulau Pinang,8/4/2020,6
+Perak,8/4/2020,4
+Selangor,8/4/2020,58
+Negeri Sembilan,8/4/2020,9
+Melaka,8/4/2020,13
+Johor,8/4/2020,18
+Pahang,8/4/2020,3
+Terengganu,8/4/2020,3
+Kelantan,8/4/2020,0
+Sabah,8/4/2020,7
+Sarawak,8/4/2020,18
+Kuala Lumpur,8/4/2020,14
+Putrajaya,8/4/2020,2
+Labuan,8/4/2020,0
+Perlis,9/4/2020,0
+Kedah,9/4/2020,2
+Pulau Pinang,9/4/2020,0
+Perak,9/4/2020,4
+Selangor,9/4/2020,40
+Negeri Sembilan,9/4/2020,11
+Melaka,9/4/2020,3
+Johor,9/4/2020,7
+Pahang,9/4/2020,14
+Terengganu,9/4/2020,5
+Kelantan,9/4/2020,1
+Sabah,9/4/2020,0
+Sarawak,9/4/2020,6
+Kuala Lumpur,9/4/2020,14
+Putrajaya,9/4/2020,2
+Labuan,9/4/2020,0
+Perlis,10/4/2020,0
+Kedah,10/4/2020,0
+Pulau Pinang,10/4/2020,1
+Perak,10/4/2020,1
+Selangor,10/4/2020,30
+Negeri Sembilan,10/4/2020,11
+Melaka,10/4/2020,14
+Johor,10/4/2020,20
+Pahang,10/4/2020,4
+Terengganu,10/4/2020,3
+Kelantan,10/4/2020,1
+Sabah,10/4/2020,2
+Sarawak,10/4/2020,15
+Kuala Lumpur,10/4/2020,14
+Putrajaya,10/4/2020,2
+Labuan,10/4/2020,0
+Perlis,11/4/2020,0
+Kedah,11/4/2020,0
+Pulau Pinang,11/4/2020,5
+Perak,11/4/2020,1
+Selangor,11/4/2020,35
+Negeri Sembilan,11/4/2020,17
+Melaka,11/4/2020,8
+Johor,11/4/2020,21
+Pahang,11/4/2020,27
+Terengganu,11/4/2020,1
+Kelantan,11/4/2020,2
+Sabah,11/4/2020,10
+Sarawak,11/4/2020,7
+Kuala Lumpur,11/4/2020,46
+Putrajaya,11/4/2020,2
+Labuan,11/4/2020,2
+Perlis,12/4/2020,0
+Kedah,12/4/2020,0
+Pulau Pinang,12/4/2020,2
+Perak,12/4/2020,1
+Selangor,12/4/2020,53
+Negeri Sembilan,12/4/2020,9
+Melaka,12/4/2020,3
+Johor,12/4/2020,14
+Pahang,12/4/2020,11
+Terengganu,12/4/2020,0
+Kelantan,12/4/2020,1
+Sabah,12/4/2020,6
+Sarawak,12/4/2020,8
+Kuala Lumpur,12/4/2020,44
+Putrajaya,12/4/2020,1
+Labuan,12/4/2020,0
+Perlis,13/4/2020,0
+Kedah,13/4/2020,0
+Pulau Pinang,13/4/2020,0
+Perak,13/4/2020,3
+Selangor,13/4/2020,13
+Negeri Sembilan,13/4/2020,42
+Melaka,13/4/2020,0
+Johor,13/4/2020,21
+Pahang,13/4/2020,0
+Terengganu,13/4/2020,4
+Kelantan,13/4/2020,2
+Sabah,13/4/2020,14
+Sarawak,13/4/2020,6
+Kuala Lumpur,13/4/2020,27
+Putrajaya,13/4/2020,2
+Labuan,13/4/2020,0
+Perlis,14/4/2020,1
+Kedah,14/4/2020,0
+Pulau Pinang,14/4/2020,3
+Perak,14/4/2020,3
+Selangor,14/4/2020,50
+Negeri Sembilan,14/4/2020,2
+Melaka,14/4/2020,3
+Johor,14/4/2020,8
+Pahang,14/4/2020,11
+Terengganu,14/4/2020,0
+Kelantan,14/4/2020,0
+Sabah,14/4/2020,5
+Sarawak,14/4/2020,15
+Kuala Lumpur,14/4/2020,69
+Putrajaya,14/4/2020,0
+Labuan,14/4/2020,0
+Perlis,15/4/2020,0
+Kedah,15/4/2020,1
+Pulau Pinang,15/4/2020,0
+Perak,15/4/2020,0
+Selangor,15/4/2020,17
+Negeri Sembilan,15/4/2020,1
+Melaka,15/4/2020,0
+Johor,15/4/2020,14
+Pahang,15/4/2020,17
+Terengganu,15/4/2020,0
+Kelantan,15/4/2020,0
+Sabah,15/4/2020,0
+Sarawak,15/4/2020,8
+Kuala Lumpur,15/4/2020,27
+Putrajaya,15/4/2020,0
+Labuan,15/4/2020,0
+Perlis,16/4/2020,0
+Kedah,16/4/2020,0
+Pulau Pinang,16/4/2020,0
+Perak,16/4/2020,1
+Selangor,16/4/2020,13
+Negeri Sembilan,16/4/2020,26
+Melaka,16/4/2020,0
+Johor,16/4/2020,13
+Pahang,16/4/2020,8
+Terengganu,16/4/2020,2
+Kelantan,16/4/2020,1
+Sabah,16/4/2020,3
+Sarawak,16/4/2020,16
+Kuala Lumpur,16/4/2020,26
+Putrajaya,16/4/2020,1
+Labuan,16/4/2020,0
+Perlis,17/4/2020,0
+Kedah,17/4/2020,0
+Pulau Pinang,17/4/2020,0
+Perak,17/4/2020,1
+Selangor,17/4/2020,9
+Negeri Sembilan,17/4/2020,13
+Melaka,17/4/2020,1
+Johor,17/4/2020,9
+Pahang,17/4/2020,1
+Terengganu,17/4/2020,9
+Kelantan,17/4/2020,9
+Sabah,17/4/2020,5
+Sarawak,17/4/2020,19
+Kuala Lumpur,17/4/2020,18
+Putrajaya,17/4/2020,9
+Labuan,17/4/2020,1
+Perlis,18/4/2020,0
+Kedah,18/4/2020,0
+Pulau Pinang,18/4/2020,0
+Perak,18/4/2020,0
+Selangor,18/4/2020,2
+Negeri Sembilan,18/4/2020,3
+Melaka,18/4/2020,0
+Johor,18/4/2020,16
+Pahang,18/4/2020,2
+Terengganu,18/4/2020,1
+Kelantan,18/4/2020,0
+Sabah,18/4/2020,10
+Sarawak,18/4/2020,6
+Kuala Lumpur,18/4/2020,14
+Putrajaya,18/4/2020,0
+Labuan,18/4/2020,0
+Perlis,19/4/2020,0
+Kedah,19/4/2020,0
+Pulau Pinang,19/4/2020,0
+Perak,19/4/2020,0
+Selangor,19/4/2020,3
+Negeri Sembilan,19/4/2020,0
+Melaka,19/4/2020,37
+Johor,19/4/2020,3
+Pahang,19/4/2020,5
+Terengganu,19/4/2020,0
+Kelantan,19/4/2020,0
+Sabah,19/4/2020,3
+Sarawak,19/4/2020,5
+Kuala Lumpur,19/4/2020,19
+Putrajaya,19/4/2020,9
+Labuan,19/4/2020,0
+Perlis,20/4/2020,0
+Kedah,20/4/2020,0
+Pulau Pinang,20/4/2020,0
+Perak,20/4/2020,0
+Selangor,20/4/2020,2
+Negeri Sembilan,20/4/2020,3
+Melaka,20/4/2020,2
+Johor,20/4/2020,2
+Pahang,20/4/2020,2
+Terengganu,20/4/2020,0
+Kelantan,20/4/2020,0
+Sabah,20/4/2020,2
+Sarawak,20/4/2020,6
+Kuala Lumpur,20/4/2020,4
+Putrajaya,20/4/2020,13
+Labuan,20/4/2020,0
+Perlis,21/4/2020,0
+Kedah,21/4/2020,0
+Pulau Pinang,21/4/2020,0
+Perak,21/4/2020,0
+Selangor,21/4/2020,11
+Negeri Sembilan,21/4/2020,1
+Melaka,21/4/2020,1
+Johor,21/4/2020,1
+Pahang,21/4/2020,8
+Terengganu,21/4/2020,0
+Kelantan,21/4/2020,0
+Sabah,21/4/2020,0
+Sarawak,21/4/2020,22
+Kuala Lumpur,21/4/2020,13
+Putrajaya,21/4/2020,0
+Labuan,21/4/2020,0
+Perlis,22/4/2020,0
+Kedah,22/4/2020,1
+Pulau Pinang,22/4/2020,0
+Perak,22/4/2020,0
+Selangor,22/4/2020,1
+Negeri Sembilan,22/4/2020,2
+Melaka,22/4/2020,1
+Johor,22/4/2020,3
+Pahang,22/4/2020,6
+Terengganu,22/4/2020,0
+Kelantan,22/4/2020,0
+Sabah,22/4/2020,0
+Sarawak,22/4/2020,19
+Kuala Lumpur,22/4/2020,16
+Putrajaya,22/4/2020,1
+Labuan,22/4/2020,0
+Perlis,23/4/2020,0
+Kedah,23/4/2020,0
+Pulau Pinang,23/4/2020,0
+Perak,23/4/2020,0
+Selangor,23/4/2020,12
+Negeri Sembilan,23/4/2020,20
+Melaka,23/4/2020,0
+Johor,23/4/2020,3
+Pahang,23/4/2020,1
+Terengganu,23/4/2020,1
+Kelantan,23/4/2020,0
+Sabah,23/4/2020,1
+Sarawak,23/4/2020,4
+Kuala Lumpur,23/4/2020,29
+Putrajaya,23/4/2020,0
+Labuan,23/4/2020,0
+Perlis,24/4/2020,0
+Kedah,24/4/2020,0
+Pulau Pinang,24/4/2020,0
+Perak,24/4/2020,0
+Selangor,24/4/2020,18
+Negeri Sembilan,24/4/2020,2
+Melaka,24/4/2020,3
+Johor,24/4/2020,4
+Pahang,24/4/2020,1
+Terengganu,24/4/2020,0
+Kelantan,24/4/2020,0
+Sabah,24/4/2020,2
+Sarawak,24/4/2020,9
+Kuala Lumpur,24/4/2020,49
+Putrajaya,24/4/2020,0
+Labuan,24/4/2020,0
+Perlis,25/4/2020,0
+Kedah,25/4/2020,0
+Pulau Pinang,25/4/2020,0
+Perak,25/4/2020,0
+Selangor,25/4/2020,1
+Negeri Sembilan,25/4/2020,0
+Melaka,25/4/2020,0
+Johor,25/4/2020,0
+Pahang,25/4/2020,1
+Terengganu,25/4/2020,0
+Kelantan,25/4/2020,0
+Sabah,25/4/2020,0
+Sarawak,25/4/2020,10
+Kuala Lumpur,25/4/2020,39
+Putrajaya,25/4/2020,0
+Labuan,25/4/2020,0
+Perlis,26/4/2020,0
+Kedah,26/4/2020,0
+Pulau Pinang,26/4/2020,2
+Perak,26/4/2020,0
+Selangor,26/4/2020,6
+Negeri Sembilan,26/4/2020,1
+Melaka,26/4/2020,1
+Johor,26/4/2020,4
+Pahang,26/4/2020,0
+Terengganu,26/4/2020,0
+Kelantan,26/4/2020,0
+Sabah,26/4/2020,0
+Sarawak,26/4/2020,7
+Kuala Lumpur,26/4/2020,16
+Putrajaya,26/4/2020,1
+Labuan,26/4/2020,0
+Perlis,27/4/2020,0
+Kedah,27/4/2020,0
+Pulau Pinang,27/4/2020,2
+Perak,27/4/2020,0
+Selangor,27/4/2020,6
+Negeri Sembilan,27/4/2020,1
+Melaka,27/4/2020,1
+Johor,27/4/2020,4
+Pahang,27/4/2020,0
+Terengganu,27/4/2020,0
+Kelantan,27/4/2020,0
+Sabah,27/4/2020,0
+Sarawak,27/4/2020,7
+Kuala Lumpur,27/4/2020,16
+Putrajaya,27/4/2020,1
+Labuan,27/4/2020,0
+Perlis,28/4/2020,0
+Kedah,28/4/2020,0
+Pulau Pinang,28/4/2020,0
+Perak,28/4/2020,1
+Selangor,28/4/2020,4
+Negeri Sembilan,28/4/2020,1
+Melaka,28/4/2020,0
+Johor,28/4/2020,0
+Pahang,28/4/2020,0
+Terengganu,28/4/2020,0
+Kelantan,28/4/2020,0
+Sabah,28/4/2020,1
+Sarawak,28/4/2020,3
+Kuala Lumpur,28/4/2020,30
+Putrajaya,28/4/2020,0
+Labuan,28/4/2020,0
+Perlis,29/4/2020,0
+Kedah,29/4/2020,0
+Pulau Pinang,29/4/2020,0
+Perak,29/4/2020,0
+Selangor,29/4/2020,5
+Negeri Sembilan,29/4/2020,1
+Melaka,29/4/2020,0
+Johor,29/4/2020,1
+Pahang,29/4/2020,0
+Terengganu,29/4/2020,0
+Kelantan,29/4/2020,0
+Sabah,29/4/2020,1
+Sarawak,29/4/2020,8
+Kuala Lumpur,29/4/2020,14
+Putrajaya,29/4/2020,1
+Labuan,29/4/2020,0
+Perlis,30/4/2020,0
+Kedah,30/4/2020,0
+Pulau Pinang,30/4/2020,0
+Perak,30/4/2020,0
+Selangor,30/4/2020,1
+Negeri Sembilan,30/4/2020,72
+Melaka,30/4/2020,0
+Johor,30/4/2020,0
+Pahang,30/4/2020,5
+Terengganu,30/4/2020,0
+Kelantan,30/4/2020,0
+Sabah,30/4/2020,2
+Sarawak,30/4/2020,6
+Kuala Lumpur,30/4/2020,8
+Putrajaya,30/4/2020,0
+Labuan,30/4/2020,0
+Perlis,1/5/2020,0
+Kedah,1/5/2020,0
+Pulau Pinang,1/5/2020,0
+Perak,1/5/2020,0
+Selangor,1/5/2020,24
+Negeri Sembilan,1/5/2020,0
+Melaka,1/5/2020,1
+Johor,1/5/2020,3
+Pahang,1/5/2020,3
+Terengganu,1/5/2020,0
+Kelantan,1/5/2020,0
+Sabah,1/5/2020,0
+Sarawak,1/5/2020,2
+Kuala Lumpur,1/5/2020,32
+Putrajaya,1/5/2020,4
+Labuan,1/5/2020,0
+Perlis,2/5/2020,0
+Kedah,2/5/2020,0
+Pulau Pinang,2/5/2020,0
+Perak,2/5/2020,0
+Selangor,2/5/2020,63
+Negeri Sembilan,2/5/2020,8
+Melaka,2/5/2020,2
+Johor,2/5/2020,1
+Pahang,2/5/2020,8
+Terengganu,2/5/2020,0
+Kelantan,2/5/2020,0
+Sabah,2/5/2020,0
+Sarawak,2/5/2020,9
+Kuala Lumpur,2/5/2020,14
+Putrajaya,2/5/2020,0
+Labuan,2/5/2020,0
+Perlis,3/5/2020,0
+Kedah,3/5/2020,0
+Pulau Pinang,3/5/2020,0
+Perak,3/5/2020,0
+Selangor,3/5/2020,11
+Negeri Sembilan,3/5/2020,71
+Melaka,3/5/2020,3
+Johor,3/5/2020,0
+Pahang,3/5/2020,0
+Terengganu,3/5/2020,0
+Kelantan,3/5/2020,0
+Sabah,3/5/2020,1
+Sarawak,3/5/2020,5
+Kuala Lumpur,3/5/2020,30
+Putrajaya,3/5/2020,1
+Labuan,3/5/2020,0
+Perlis,4/5/2020,0
+Kedah,4/5/2020,0
+Pulau Pinang,4/5/2020,0
+Perak,4/5/2020,0
+Selangor,4/5/2020,21
+Negeri Sembilan,4/5/2020,6
+Melaka,4/5/2020,3
+Johor,4/5/2020,0
+Pahang,4/5/2020,0
+Terengganu,4/5/2020,0
+Kelantan,4/5/2020,0
+Sabah,4/5/2020,0
+Sarawak,4/5/2020,0
+Kuala Lumpur,4/5/2020,25
+Putrajaya,4/5/2020,0
+Labuan,4/5/2020,0
+Perlis,5/5/2020,0
+Kedah,5/5/2020,0
+Pulau Pinang,5/5/2020,0
+Perak,5/5/2020,0
+Selangor,5/5/2020,5
+Negeri Sembilan,5/5/2020,0
+Melaka,5/5/2020,0
+Johor,5/5/2020,0
+Pahang,5/5/2020,0
+Terengganu,5/5/2020,0
+Kelantan,5/5/2020,0
+Sabah,5/5/2020,0
+Sarawak,5/5/2020,2
+Kuala Lumpur,5/5/2020,23
+Putrajaya,5/5/2020,0
+Labuan,5/5/2020,0
+Perlis,6/5/2020,0
+Kedah,6/5/2020,0
+Pulau Pinang,6/5/2020,0
+Perak,6/5/2020,0
+Selangor,6/5/2020,9
+Negeri Sembilan,6/5/2020,2
+Melaka,6/5/2020,1
+Johor,6/5/2020,0
+Pahang,6/5/2020,0
+Terengganu,6/5/2020,0
+Kelantan,6/5/2020,0
+Sabah,6/5/2020,0
+Sarawak,6/5/2020,11
+Kuala Lumpur,6/5/2020,22
+Putrajaya,6/5/2020,0
+Labuan,6/5/2020,0
+Perlis,7/5/2020,0
+Kedah,7/5/2020,0
+Pulau Pinang,7/5/2020,0
+Perak,7/5/2020,0
+Selangor,7/5/2020,16
+Negeri Sembilan,7/5/2020,0
+Melaka,7/5/2020,1
+Johor,7/5/2020,0
+Pahang,7/5/2020,0
+Terengganu,7/5/2020,0
+Kelantan,7/5/2020,0
+Sabah,7/5/2020,1
+Sarawak,7/5/2020,1
+Kuala Lumpur,7/5/2020,20
+Putrajaya,7/5/2020,0
+Labuan,7/5/2020,0
+Perlis,8/5/2020,0
+Kedah,8/5/2020,0
+Pulau Pinang,8/5/2020,0
+Perak,8/5/2020,0
+Selangor,8/5/2020,6
+Negeri Sembilan,8/5/2020,53
+Melaka,8/5/2020,0
+Johor,8/5/2020,0
+Pahang,8/5/2020,1
+Terengganu,8/5/2020,0
+Kelantan,8/5/2020,0
+Sabah,8/5/2020,0
+Sarawak,8/5/2020,1
+Kuala Lumpur,8/5/2020,6
+Putrajaya,8/5/2020,1
+Labuan,8/5/2020,0
+Perlis,9/5/2020,0
+Kedah,9/5/2020,0
+Pulau Pinang,9/5/2020,0
+Perak,9/5/2020,0
+Selangor,9/5/2020,10
+Negeri Sembilan,9/5/2020,28
+Melaka,9/5/2020,1
+Johor,9/5/2020,0
+Pahang,9/5/2020,0
+Terengganu,9/5/2020,0
+Kelantan,9/5/2020,0
+Sabah,9/5/2020,0
+Sarawak,9/5/2020,4
+Kuala Lumpur,9/5/2020,10
+Putrajaya,9/5/2020,1
+Labuan,9/5/2020,0
+Perlis,10/5/2020,0
+Kedah,10/5/2020,0
+Pulau Pinang,10/5/2020,0
+Perak,10/5/2020,2
+Selangor,10/5/2020,8
+Negeri Sembilan,10/5/2020,45
+Melaka,10/5/2020,0
+Johor,10/5/2020,0
+Pahang,10/5/2020,2
+Terengganu,10/5/2020,0
+Kelantan,10/5/2020,0
+Sabah,10/5/2020,0
+Sarawak,10/5/2020,1
+Kuala Lumpur,10/5/2020,9
+Putrajaya,10/5/2020,0
+Labuan,10/5/2020,0
+Perlis,11/5/2020,0
+Kedah,11/5/2020,0
+Pulau Pinang,11/5/2020,0
+Perak,11/5/2020,0
+Selangor,11/5/2020,3
+Negeri Sembilan,11/5/2020,16
+Melaka,11/5/2020,1
+Johor,11/5/2020,0
+Pahang,11/5/2020,4
+Terengganu,11/5/2020,0
+Kelantan,11/5/2020,0
+Sabah,11/5/2020,10
+Sarawak,11/5/2020,0
+Kuala Lumpur,11/5/2020,35
+Putrajaya,11/5/2020,1
+Labuan,11/5/2020,0
+Perlis,12/5/2020,0
+Kedah,12/5/2020,0
+Pulau Pinang,12/5/2020,0
+Perak,12/5/2020,0
+Selangor,12/5/2020,3
+Negeri Sembilan,12/5/2020,0
+Melaka,12/5/2020,0
+Johor,12/5/2020,0
+Pahang,12/5/2020,0
+Terengganu,12/5/2020,0
+Kelantan,12/5/2020,0
+Sabah,12/5/2020,1
+Sarawak,12/5/2020,0
+Kuala Lumpur,12/5/2020,12
+Putrajaya,12/5/2020,0
+Labuan,12/5/2020,0
+Perlis,13/5/2020,0
+Kedah,13/5/2020,0
+Pulau Pinang,13/5/2020,0
+Perak,13/5/2020,0
+Selangor,13/5/2020,2
+Negeri Sembilan,13/5/2020,22
+Melaka,13/5/2020,2
+Johor,13/5/2020,0
+Pahang,13/5/2020,3
+Terengganu,13/5/2020,0
+Kelantan,13/5/2020,0
+Sabah,13/5/2020,2
+Sarawak,13/5/2020,1
+Kuala Lumpur,13/5/2020,5
+Putrajaya,13/5/2020,0
+Labuan,13/5/2020,0
+Perlis,14/5/2020,0
+Kedah,14/5/2020,0
+Pulau Pinang,14/5/2020,0
+Perak,14/5/2020,0
+Selangor,14/5/2020,1
+Negeri Sembilan,14/5/2020,11
+Melaka,14/5/2020,1
+Johor,14/5/2020,1
+Pahang,14/5/2020,8
+Terengganu,14/5/2020,0
+Kelantan,14/5/2020,0
+Sabah,14/5/2020,0
+Sarawak,14/5/2020,0
+Kuala Lumpur,14/5/2020,18
+Putrajaya,14/5/2020,0
+Labuan,14/5/2020,0
+Perlis,15/5/2020,0
+Kedah,15/5/2020,0
+Pulau Pinang,15/5/2020,0
+Perak,15/5/2020,0
+Selangor,15/5/2020,14
+Negeri Sembilan,15/5/2020,1
+Melaka,15/5/2020,1
+Johor,15/5/2020,0
+Pahang,15/5/2020,6
+Terengganu,15/5/2020,0
+Kelantan,15/5/2020,0
+Sabah,15/5/2020,0
+Sarawak,15/5/2020,0
+Kuala Lumpur,15/5/2020,15
+Putrajaya,15/5/2020,0
+Labuan,15/5/2020,0
+Perlis,16/5/2020,0
+Kedah,16/5/2020,0
+Pulau Pinang,16/5/2020,0
+Perak,16/5/2020,0
+Selangor,16/5/2020,1
+Negeri Sembilan,16/5/2020,0
+Melaka,16/5/2020,0
+Johor,16/5/2020,0
+Pahang,16/5/2020,7
+Terengganu,16/5/2020,0
+Kelantan,16/5/2020,0
+Sabah,16/5/2020,1
+Sarawak,16/5/2020,0
+Kuala Lumpur,16/5/2020,7
+Putrajaya,16/5/2020,1
+Labuan,16/5/2020,0
+Perlis,17/5/2020,0
+Kedah,17/5/2020,0
+Pulau Pinang,17/5/2020,0
+Perak,17/5/2020,0
+Selangor,17/5/2020,8
+Negeri Sembilan,17/5/2020,0
+Melaka,17/5/2020,0
+Johor,17/5/2020,0
+Pahang,17/5/2020,1
+Terengganu,17/5/2020,0
+Kelantan,17/5/2020,0
+Sabah,17/5/2020,0
+Sarawak,17/5/2020,0
+Kuala Lumpur,17/5/2020,13
+Putrajaya,17/5/2020,0
+Labuan,17/5/2020,0
+Perlis,18/5/2020,0
+Kedah,18/5/2020,0
+Pulau Pinang,18/5/2020,0
+Perak,18/5/2020,0
+Selangor,18/5/2020,8
+Negeri Sembilan,18/5/2020,0
+Melaka,18/5/2020,0
+Johor,18/5/2020,0
+Pahang,18/5/2020,0
+Terengganu,18/5/2020,0
+Kelantan,18/5/2020,0
+Sabah,18/5/2020,0
+Sarawak,18/5/2020,0
+Kuala Lumpur,18/5/2020,38
+Putrajaya,18/5/2020,1
+Labuan,18/5/2020,0
+Perlis,19/5/2020,0
+Kedah,19/5/2020,0
+Pulau Pinang,19/5/2020,0
+Perak,19/5/2020,0
+Selangor,19/5/2020,6
+Negeri Sembilan,19/5/2020,0
+Melaka,19/5/2020,0
+Johor,19/5/2020,1
+Pahang,19/5/2020,2
+Terengganu,19/5/2020,0
+Kelantan,19/5/2020,0
+Sabah,19/5/2020,6
+Sarawak,19/5/2020,0
+Kuala Lumpur,19/5/2020,22
+Putrajaya,19/5/2020,0
+Labuan,19/5/2020,0
+Perlis,20/5/2020,0
+Kedah,20/5/2020,1
+Pulau Pinang,20/5/2020,0
+Perak,20/5/2020,0
+Selangor,20/5/2020,15
+Negeri Sembilan,20/5/2020,0
+Melaka,20/5/2020,0
+Johor,20/5/2020,0
+Pahang,20/5/2020,0
+Terengganu,20/5/2020,1
+Kelantan,20/5/2020,1
+Sabah,20/5/2020,1
+Sarawak,20/5/2020,0
+Kuala Lumpur,20/5/2020,10
+Putrajaya,20/5/2020,2
+Labuan,20/5/2020,0
+Perlis,21/5/2020,0
+Kedah,21/5/2020,0
+Pulau Pinang,21/5/2020,0
+Perak,21/5/2020,0
+Selangor,21/5/2020,8
+Negeri Sembilan,21/5/2020,2
+Melaka,21/5/2020,0
+Johor,21/5/2020,0
+Pahang,21/5/2020,1
+Terengganu,21/5/2020,0
+Kelantan,21/5/2020,0
+Sabah,21/5/2020,0
+Sarawak,21/5/2020,0
+Kuala Lumpur,21/5/2020,39
+Putrajaya,21/5/2020,0
+Labuan,21/5/2020,0
+Perlis,22/5/2020,0
+Kedah,22/5/2020,0
+Pulau Pinang,22/5/2020,0
+Perak,22/5/2020,0
+Selangor,22/5/2020,20
+Negeri Sembilan,22/5/2020,13
+Melaka,22/5/2020,1
+Johor,22/5/2020,0
+Pahang,22/5/2020,2
+Terengganu,22/5/2020,0
+Kelantan,22/5/2020,0
+Sabah,22/5/2020,2
+Sarawak,22/5/2020,1
+Kuala Lumpur,22/5/2020,39
+Putrajaya,22/5/2020,0
+Labuan,22/5/2020,0
+Perlis,23/5/2020,0
+Kedah,23/5/2020,0
+Pulau Pinang,23/5/2020,0
+Perak,23/5/2020,0
+Selangor,23/5/2020,37
+Negeri Sembilan,23/5/2020,1
+Melaka,23/5/2020,0
+Johor,23/5/2020,1
+Pahang,23/5/2020,3
+Terengganu,23/5/2020,0
+Kelantan,23/5/2020,0
+Sabah,23/5/2020,1
+Sarawak,23/5/2020,0
+Kuala Lumpur,23/5/2020,5
+Putrajaya,23/5/2020,0
+Labuan,23/5/2020,0
+Perlis,24/5/2020,0
+Kedah,24/5/2020,0
+Pulau Pinang,24/5/2020,0
+Perak,24/5/2020,0
+Selangor,24/5/2020,46
+Negeri Sembilan,24/5/2020,0
+Melaka,24/5/2020,0
+Johor,24/5/2020,1
+Pahang,24/5/2020,0
+Terengganu,24/5/2020,0
+Kelantan,24/5/2020,0
+Sabah,24/5/2020,2
+Sarawak,24/5/2020,0
+Kuala Lumpur,24/5/2020,11
+Putrajaya,24/5/2020,0
+Labuan,24/5/2020,0
+Perlis,25/5/2020,0
+Kedah,25/5/2020,0
+Pulau Pinang,25/5/2020,0
+Perak,25/5/2020,0
+Selangor,25/5/2020,53
+Negeri Sembilan,25/5/2020,0
+Melaka,25/5/2020,0
+Johor,25/5/2020,0
+Pahang,25/5/2020,0
+Terengganu,25/5/2020,0
+Kelantan,25/5/2020,0
+Sabah,25/5/2020,0
+Sarawak,25/5/2020,4
+Kuala Lumpur,25/5/2020,115
+Putrajaya,25/5/2020,0
+Labuan,25/5/2020,0
+Perlis,26/5/2020,0
+Kedah,26/5/2020,0
+Pulau Pinang,26/5/2020,0
+Perak,26/5/2020,0
+Selangor,26/5/2020,9
+Negeri Sembilan,26/5/2020,1
+Melaka,26/5/2020,0
+Johor,26/5/2020,0
+Pahang,26/5/2020,0
+Terengganu,26/5/2020,0
+Kelantan,26/5/2020,0
+Sabah,26/5/2020,0
+Sarawak,26/5/2020,0
+Kuala Lumpur,26/5/2020,177
+Putrajaya,26/5/2020,0
+Labuan,26/5/2020,0
+Perlis,27/5/2020,0
+Kedah,27/5/2020,0
+Pulau Pinang,27/5/2020,0
+Perak,27/5/2020,0
+Selangor,27/5/2020,5
+Negeri Sembilan,27/5/2020,0
+Melaka,27/5/2020,0
+Johor,27/5/2020,0
+Pahang,27/5/2020,0
+Terengganu,27/5/2020,0
+Kelantan,27/5/2020,0
+Sabah,27/5/2020,1
+Sarawak,27/5/2020,3
+Kuala Lumpur,27/5/2020,6
+Putrajaya,27/5/2020,0
+Labuan,27/5/2020,0
+Perlis,28/5/2020,0
+Kedah,28/5/2020,0
+Pulau Pinang,28/5/2020,0
+Perak,28/5/2020,0
+Selangor,28/5/2020,2
+Negeri Sembilan,28/5/2020,0
+Melaka,28/5/2020,0
+Johor,28/5/2020,0
+Pahang,28/5/2020,1
+Terengganu,28/5/2020,0
+Kelantan,28/5/2020,0
+Sabah,28/5/2020,0
+Sarawak,28/5/2020,0
+Kuala Lumpur,28/5/2020,7
+Putrajaya,28/5/2020,0
+Labuan,28/5/2020,0
+Perlis,29/5/2020,0
+Kedah,29/5/2020,0
+Pulau Pinang,29/5/2020,0
+Perak,29/5/2020,0
+Selangor,29/5/2020,28
+Negeri Sembilan,29/5/2020,59
+Melaka,29/5/2020,0
+Johor,29/5/2020,3
+Pahang,29/5/2020,1
+Terengganu,29/5/2020,0
+Kelantan,29/5/2020,0
+Sabah,29/5/2020,2
+Sarawak,29/5/2020,0
+Kuala Lumpur,29/5/2020,10
+Putrajaya,29/5/2020,0
+Labuan,29/5/2020,0
+Perlis,30/5/2020,0
+Kedah,30/5/2020,0
+Pulau Pinang,30/5/2020,0
+Perak,30/5/2020,1
+Selangor,30/5/2020,5
+Negeri Sembilan,30/5/2020,4
+Melaka,30/5/2020,2
+Johor,30/5/2020,1
+Pahang,30/5/2020,0
+Terengganu,30/5/2020,0
+Kelantan,30/5/2020,0
+Sabah,30/5/2020,0
+Sarawak,30/5/2020,0
+Kuala Lumpur,30/5/2020,13
+Putrajaya,30/5/2020,4
+Labuan,30/5/2020,0
+Perlis,31/5/2020,0
+Kedah,31/5/2020,0
+Pulau Pinang,31/5/2020,0
+Perak,31/5/2020,0
+Selangor,31/5/2020,31
+Negeri Sembilan,31/5/2020,2
+Melaka,31/5/2020,1
+Johor,31/5/2020,0
+Pahang,31/5/2020,15
+Terengganu,31/5/2020,0
+Kelantan,31/5/2020,0
+Sabah,31/5/2020,0
+Sarawak,31/5/2020,0
+Kuala Lumpur,31/5/2020,8
+Putrajaya,31/5/2020,0
+Labuan,31/5/2020,0
+Perlis,1/6/2020,0
+Kedah,1/6/2020,0
+Pulau Pinang,1/6/2020,0
+Perak,1/6/2020,0
+Selangor,1/6/2020,11
+Negeri Sembilan,1/6/2020,2
+Melaka,1/6/2020,13
+Johor,1/6/2020,0
+Pahang,1/6/2020,0
+Terengganu,1/6/2020,0
+Kelantan,1/6/2020,0
+Sabah,1/6/2020,1
+Sarawak,1/6/2020,0
+Kuala Lumpur,1/6/2020,11
+Putrajaya,1/6/2020,0
+Labuan,1/6/2020,0
+Perlis,2/6/2020,0
+Kedah,2/6/2020,0
+Pulau Pinang,2/6/2020,0
+Perak,2/6/2020,0
+Selangor,2/6/2020,6
+Negeri Sembilan,2/6/2020,6
+Melaka,2/6/2020,1
+Johor,2/6/2020,1
+Pahang,2/6/2020,0
+Terengganu,2/6/2020,0
+Kelantan,2/6/2020,0
+Sabah,2/6/2020,1
+Sarawak,2/6/2020,0
+Kuala Lumpur,2/6/2020,5
+Putrajaya,2/6/2020,0
+Labuan,2/6/2020,0
+Perlis,3/6/2020,0
+Kedah,3/6/2020,0
+Pulau Pinang,3/6/2020,0
+Perak,3/6/2020,0
+Selangor,3/6/2020,2
+Negeri Sembilan,3/6/2020,36
+Melaka,3/6/2020,0
+Johor,3/6/2020,0
+Pahang,3/6/2020,0
+Terengganu,3/6/2020,0
+Kelantan,3/6/2020,0
+Sabah,3/6/2020,0
+Sarawak,3/6/2020,0
+Kuala Lumpur,3/6/2020,55
+Putrajaya,3/6/2020,0
+Labuan,3/6/2020,0
+Perlis,4/6/2020,0
+Kedah,4/6/2020,0
+Pulau Pinang,4/6/2020,0
+Perak,4/6/2020,0
+Selangor,4/6/2020,2
+Negeri Sembilan,4/6/2020,3
+Melaka,4/6/2020,0
+Johor,4/6/2020,0
+Pahang,4/6/2020,1
+Terengganu,4/6/2020,0
+Kelantan,4/6/2020,0
+Sabah,4/6/2020,0
+Sarawak,4/6/2020,0
+Kuala Lumpur,4/6/2020,271
+Putrajaya,4/6/2020,0
+Labuan,4/6/2020,0
+Perlis,5/6/2020,0
+Kedah,5/6/2020,0
+Pulau Pinang,5/6/2020,0
+Perak,5/6/2020,0
+Selangor,5/6/2020,9
+Negeri Sembilan,5/6/2020,0
+Melaka,5/6/2020,1
+Johor,5/6/2020,0
+Pahang,5/6/2020,1
+Terengganu,5/6/2020,0
+Kelantan,5/6/2020,0
+Sabah,5/6/2020,3
+Sarawak,5/6/2020,1
+Kuala Lumpur,5/6/2020,4
+Putrajaya,5/6/2020,0
+Labuan,5/6/2020,0
+Perlis,6/6/2020,0
+Kedah,6/6/2020,0
+Pulau Pinang,6/6/2020,0
+Perak,6/6/2020,0
+Selangor,6/6/2020,14
+Negeri Sembilan,6/6/2020,5
+Melaka,6/6/2020,0
+Johor,6/6/2020,0
+Pahang,6/6/2020,0
+Terengganu,6/6/2020,0
+Kelantan,6/6/2020,0
+Sabah,6/6/2020,0
+Sarawak,6/6/2020,2
+Kuala Lumpur,6/6/2020,15
+Putrajaya,6/6/2020,0
+Labuan,6/6/2020,1
+Perlis,7/6/2020,0
+Kedah,7/6/2020,0
+Pulau Pinang,7/6/2020,0
+Perak,7/6/2020,0
+Selangor,7/6/2020,12
+Negeri Sembilan,7/6/2020,1
+Melaka,7/6/2020,0
+Johor,7/6/2020,0
+Pahang,7/6/2020,0
+Terengganu,7/6/2020,0
+Kelantan,7/6/2020,0
+Sabah,7/6/2020,2
+Sarawak,7/6/2020,0
+Kuala Lumpur,7/6/2020,4
+Putrajaya,7/6/2020,0
+Labuan,7/6/2020,0
+Perlis,8/6/2020,0
+Kedah,8/6/2020,0
+Pulau Pinang,8/6/2020,0
+Perak,8/6/2020,0
+Selangor,8/6/2020,3
+Negeri Sembilan,8/6/2020,0
+Melaka,8/6/2020,1
+Johor,8/6/2020,0
+Pahang,8/6/2020,0
+Terengganu,8/6/2020,0
+Kelantan,8/6/2020,0
+Sabah,8/6/2020,2
+Sarawak,8/6/2020,0
+Kuala Lumpur,8/6/2020,1
+Putrajaya,8/6/2020,0
+Labuan,8/6/2020,0
+Perlis,9/6/2020,0
+Kedah,9/6/2020,0
+Pulau Pinang,9/6/2020,0
+Perak,9/6/2020,0
+Selangor,9/6/2020,3
+Negeri Sembilan,9/6/2020,0
+Melaka,9/6/2020,0
+Johor,9/6/2020,0
+Pahang,9/6/2020,0
+Terengganu,9/6/2020,0
+Kelantan,9/6/2020,0
+Sabah,9/6/2020,0
+Sarawak,9/6/2020,0
+Kuala Lumpur,9/6/2020,4
+Putrajaya,9/6/2020,0
+Labuan,9/6/2020,0
+Perlis,10/6/2020,0
+Kedah,10/6/2020,0
+Pulau Pinang,10/6/2020,0
+Perak,10/6/2020,0
+Selangor,10/6/2020,0
+Negeri Sembilan,10/6/2020,0
+Melaka,10/6/2020,0
+Johor,10/6/2020,1
+Pahang,10/6/2020,0
+Terengganu,10/6/2020,0
+Kelantan,10/6/2020,0
+Sabah,10/6/2020,0
+Sarawak,10/6/2020,1
+Kuala Lumpur,10/6/2020,0
+Putrajaya,10/6/2020,0
+Labuan,10/6/2020,0
+Perlis,11/6/2020,0
+Kedah,11/6/2020,0
+Pulau Pinang,11/6/2020,0
+Perak,11/6/2020,0
+Selangor,11/6/2020,3
+Negeri Sembilan,11/6/2020,16
+Melaka,11/6/2020,11
+Johor,11/6/2020,0
+Pahang,11/6/2020,0
+Terengganu,11/6/2020,0
+Kelantan,11/6/2020,0
+Sabah,11/6/2020,0
+Sarawak,11/6/2020,0
+Kuala Lumpur,11/6/2020,1
+Putrajaya,11/6/2020,0
+Labuan,11/6/2020,0
+Perlis,12/6/2020,0
+Kedah,12/6/2020,0
+Pulau Pinang,12/6/2020,0
+Perak,12/6/2020,0
+Selangor,12/6/2020,13
+Negeri Sembilan,12/6/2020,4
+Melaka,12/6/2020,4
+Johor,12/6/2020,1
+Pahang,12/6/2020,0
+Terengganu,12/6/2020,0
+Kelantan,12/6/2020,0
+Sabah,12/6/2020,1
+Sarawak,12/6/2020,0
+Kuala Lumpur,12/6/2020,10
+Putrajaya,12/6/2020,0
+Labuan,12/6/2020,0
+Perlis,13/6/2020,0
+Kedah,13/6/2020,0
+Pulau Pinang,13/6/2020,0
+Perak,13/6/2020,1
+Selangor,13/6/2020,7
+Negeri Sembilan,13/6/2020,26
+Melaka,13/6/2020,2
+Johor,13/6/2020,2
+Pahang,13/6/2020,2
+Terengganu,13/6/2020,0
+Kelantan,13/6/2020,0
+Sabah,13/6/2020,2
+Sarawak,13/6/2020,0
+Kuala Lumpur,13/6/2020,1
+Putrajaya,13/6/2020,0
+Labuan,13/6/2020,0
+Perlis,14/6/2020,0
+Kedah,14/6/2020,0
+Pulau Pinang,14/6/2020,0
+Perak,14/6/2020,0
+Selangor,14/6/2020,2
+Negeri Sembilan,14/6/2020,0
+Melaka,14/6/2020,1
+Johor,14/6/2020,0
+Pahang,14/6/2020,0
+Terengganu,14/6/2020,0
+Kelantan,14/6/2020,0
+Sabah,14/6/2020,0
+Sarawak,14/6/2020,1
+Kuala Lumpur,14/6/2020,4
+Putrajaya,14/6/2020,0
+Labuan,14/6/2020,0
+Perlis,15/6/2020,0
+Kedah,15/6/2020,0
+Pulau Pinang,15/6/2020,0
+Perak,15/6/2020,0
+Selangor,15/6/2020,2
+Negeri Sembilan,15/6/2020,32
+Melaka,15/6/2020,2
+Johor,15/6/2020,3
+Pahang,15/6/2020,0
+Terengganu,15/6/2020,0
+Kelantan,15/6/2020,0
+Sabah,15/6/2020,1
+Sarawak,15/6/2020,0
+Kuala Lumpur,15/6/2020,1
+Putrajaya,15/6/2020,0
+Labuan,15/6/2020,0
+Perlis,16/6/2020,0
+Kedah,16/6/2020,0
+Pulau Pinang,16/6/2020,0
+Perak,16/6/2020,0
+Selangor,16/6/2020,1
+Negeri Sembilan,16/6/2020,4
+Melaka,16/6/2020,0
+Johor,16/6/2020,1
+Pahang,16/6/2020,0
+Terengganu,16/6/2020,0
+Kelantan,16/6/2020,0
+Sabah,16/6/2020,0
+Sarawak,16/6/2020,3
+Kuala Lumpur,16/6/2020,2
+Putrajaya,16/6/2020,0
+Labuan,16/6/2020,0
+Perlis,17/6/2020,0
+Kedah,17/6/2020,0
+Pulau Pinang,17/6/2020,0
+Perak,17/6/2020,0
+Selangor,17/6/2020,5
+Negeri Sembilan,17/6/2020,1
+Melaka,17/6/2020,0
+Johor,17/6/2020,0
+Pahang,17/6/2020,0
+Terengganu,17/6/2020,0
+Kelantan,17/6/2020,0
+Sabah,17/6/2020,2
+Sarawak,17/6/2020,1
+Kuala Lumpur,17/6/2020,1
+Putrajaya,17/6/2020,0
+Labuan,17/6/2020,0
+Perlis,18/6/2020,0
+Kedah,18/6/2020,0
+Pulau Pinang,18/6/2020,0
+Perak,18/6/2020,1
+Selangor,18/6/2020,2
+Negeri Sembilan,18/6/2020,0
+Melaka,18/6/2020,0
+Johor,18/6/2020,2
+Pahang,18/6/2020,0
+Terengganu,18/6/2020,0
+Kelantan,18/6/2020,0
+Sabah,18/6/2020,1
+Sarawak,18/6/2020,4
+Kuala Lumpur,18/6/2020,4
+Putrajaya,18/6/2020,0
+Labuan,18/6/2020,0
+Perlis,19/6/2020,0
+Kedah,19/6/2020,0
+Pulau Pinang,19/6/2020,0
+Perak,19/6/2020,0
+Selangor,19/6/2020,3
+Negeri Sembilan,19/6/2020,1
+Melaka,19/6/2020,0
+Johor,19/6/2020,0
+Pahang,19/6/2020,0
+Terengganu,19/6/2020,0
+Kelantan,19/6/2020,0
+Sabah,19/6/2020,0
+Sarawak,19/6/2020,1
+Kuala Lumpur,19/6/2020,1
+Putrajaya,19/6/2020,0
+Labuan,19/6/2020,0
+Perlis,20/6/2020,0
+Kedah,20/6/2020,0
+Pulau Pinang,20/6/2020,0
+Perak,20/6/2020,0
+Selangor,20/6/2020,12
+Negeri Sembilan,20/6/2020,1
+Melaka,20/6/2020,0
+Johor,20/6/2020,0
+Pahang,20/6/2020,0
+Terengganu,20/6/2020,0
+Kelantan,20/6/2020,0
+Sabah,20/6/2020,1
+Sarawak,20/6/2020,0
+Kuala Lumpur,20/6/2020,7
+Putrajaya,20/6/2020,0
+Labuan,20/6/2020,0
+Perlis,21/6/2020,0
+Kedah,21/6/2020,0
+Pulau Pinang,21/6/2020,0
+Perak,21/6/2020,0
+Selangor,21/6/2020,4
+Negeri Sembilan,21/6/2020,6
+Melaka,21/6/2020,1
+Johor,21/6/2020,1
+Pahang,21/6/2020,0
+Terengganu,21/6/2020,0
+Kelantan,21/6/2020,0
+Sabah,21/6/2020,1
+Sarawak,21/6/2020,3
+Kuala Lumpur,21/6/2020,0
+Putrajaya,21/6/2020,0
+Labuan,21/6/2020,0
+Perlis,22/6/2020,0
+Kedah,22/6/2020,0
+Pulau Pinang,22/6/2020,0
+Perak,22/6/2020,0
+Selangor,22/6/2020,2
+Negeri Sembilan,22/6/2020,12
+Melaka,22/6/2020,0
+Johor,22/6/2020,1
+Pahang,22/6/2020,0
+Terengganu,22/6/2020,0
+Kelantan,22/6/2020,0
+Sabah,22/6/2020,0
+Sarawak,22/6/2020,0
+Kuala Lumpur,22/6/2020,0
+Putrajaya,22/6/2020,0
+Labuan,22/6/2020,0
+Perlis,23/6/2020,0
+Kedah,23/6/2020,0
+Pulau Pinang,23/6/2020,0
+Perak,23/6/2020,0
+Selangor,23/6/2020,0
+Negeri Sembilan,23/6/2020,1
+Melaka,23/6/2020,0
+Johor,23/6/2020,0
+Pahang,23/6/2020,0
+Terengganu,23/6/2020,0
+Kelantan,23/6/2020,0
+Sabah,23/6/2020,2
+Sarawak,23/6/2020,0
+Kuala Lumpur,23/6/2020,0
+Putrajaya,23/6/2020,0
+Labuan,23/6/2020,0
+Perlis,24/6/2020,0
+Kedah,24/6/2020,0
+Pulau Pinang,24/6/2020,0
+Perak,24/6/2020,0
+Selangor,24/6/2020,5
+Negeri Sembilan,24/6/2020,0
+Melaka,24/6/2020,0
+Johor,24/6/2020,0
+Pahang,24/6/2020,0
+Terengganu,24/6/2020,0
+Kelantan,24/6/2020,0
+Sabah,24/6/2020,0
+Sarawak,24/6/2020,1
+Kuala Lumpur,24/6/2020,0
+Putrajaya,24/6/2020,0
+Labuan,24/6/2020,0
+Perlis,25/6/2020,0
+Kedah,25/6/2020,0
+Pulau Pinang,25/6/2020,0
+Perak,25/6/2020,0
+Selangor,25/6/2020,2
+Negeri Sembilan,25/6/2020,0
+Melaka,25/6/2020,0
+Johor,25/6/2020,1
+Pahang,25/6/2020,0
+Terengganu,25/6/2020,0
+Kelantan,25/6/2020,1
+Sabah,25/6/2020,0
+Sarawak,25/6/2020,0
+Kuala Lumpur,25/6/2020,0
+Putrajaya,25/6/2020,0
+Labuan,25/6/2020,0
+Perlis,26/6/2020,0
+Kedah,26/6/2020,1
+Pulau Pinang,26/6/2020,0
+Perak,26/6/2020,0
+Selangor,26/6/2020,2
+Negeri Sembilan,26/6/2020,0
+Melaka,26/6/2020,0
+Johor,26/6/2020,2
+Pahang,26/6/2020,0
+Terengganu,26/6/2020,0
+Kelantan,26/6/2020,0
+Sabah,26/6/2020,0
+Sarawak,26/6/2020,0
+Kuala Lumpur,26/6/2020,1
+Putrajaya,26/6/2020,0
+Labuan,26/6/2020,0
+Perlis,27/6/2020,0
+Kedah,27/6/2020,0
+Pulau Pinang,27/6/2020,0
+Perak,27/6/2020,0
+Selangor,27/6/2020,3
+Negeri Sembilan,27/6/2020,1
+Melaka,27/6/2020,0
+Johor,27/6/2020,0
+Pahang,27/6/2020,0
+Terengganu,27/6/2020,0
+Kelantan,27/6/2020,0
+Sabah,27/6/2020,2
+Sarawak,27/6/2020,0
+Kuala Lumpur,27/6/2020,4
+Putrajaya,27/6/2020,0
+Labuan,27/6/2020,0
+Perlis,28/6/2020,0
+Kedah,28/6/2020,0
+Pulau Pinang,28/6/2020,0
+Perak,28/6/2020,0
+Selangor,28/6/2020,5
+Negeri Sembilan,28/6/2020,9
+Melaka,28/6/2020,0
+Johor,28/6/2020,0
+Pahang,28/6/2020,0
+Terengganu,28/6/2020,0
+Kelantan,28/6/2020,0
+Sabah,28/6/2020,2
+Sarawak,28/6/2020,1
+Kuala Lumpur,28/6/2020,1
+Putrajaya,28/6/2020,0
+Labuan,28/6/2020,0
+Perlis,29/6/2020,0
+Kedah,29/6/2020,0
+Pulau Pinang,29/6/2020,0
+Perak,29/6/2020,0
+Selangor,29/6/2020,2
+Negeri Sembilan,29/6/2020,0
+Melaka,29/6/2020,0
+Johor,29/6/2020,0
+Pahang,29/6/2020,0
+Terengganu,29/6/2020,0
+Kelantan,29/6/2020,0
+Sabah,29/6/2020,1
+Sarawak,29/6/2020,0
+Kuala Lumpur,29/6/2020,0
+Putrajaya,29/6/2020,0
+Labuan,29/6/2020,0
+Perlis,30/6/2020,0
+Kedah,30/6/2020,0
+Pulau Pinang,30/6/2020,0
+Perak,30/6/2020,0
+Selangor,30/6/2020,1
+Negeri Sembilan,30/6/2020,0
+Melaka,30/6/2020,0
+Johor,30/6/2020,0
+Pahang,30/6/2020,0
+Terengganu,30/6/2020,0
+Kelantan,30/6/2020,0
+Sabah,30/6/2020,1
+Sarawak,30/6/2020,0
+Kuala Lumpur,30/6/2020,0
+Putrajaya,30/6/2020,0
+Labuan,30/6/2020,0
+Perlis,1/7/2020,0
+Kedah,1/7/2020,0
+Pulau Pinang,1/7/2020,0
+Perak,1/7/2020,0
+Selangor,1/7/2020,1
+Negeri Sembilan,1/7/2020,0
+Melaka,1/7/2020,0
+Johor,1/7/2020,0
+Pahang,1/7/2020,0
+Terengganu,1/7/2020,0
+Kelantan,1/7/2020,0
+Sabah,1/7/2020,0
+Sarawak,1/7/2020,0
+Kuala Lumpur,1/7/2020,0
+Putrajaya,1/7/2020,0
+Labuan,1/7/2020,0
+Perlis,2/7/2020,0
+Kedah,2/7/2020,0
+Pulau Pinang,2/7/2020,0
+Perak,2/7/2020,0
+Selangor,2/7/2020,0
+Negeri Sembilan,2/7/2020,0
+Melaka,2/7/2020,0
+Johor,2/7/2020,1
+Pahang,2/7/2020,0
+Terengganu,2/7/2020,0
+Kelantan,2/7/2020,0
+Sabah,2/7/2020,1
+Sarawak,2/7/2020,0
+Kuala Lumpur,2/7/2020,1
+Putrajaya,2/7/2020,0
+Labuan,2/7/2020,0
+Perlis,3/7/2020,0
+Kedah,3/7/2020,0
+Pulau Pinang,3/7/2020,0
+Perak,3/7/2020,0
+Selangor,3/7/2020,3
+Negeri Sembilan,3/7/2020,0
+Melaka,3/7/2020,0
+Johor,3/7/2020,0
+Pahang,3/7/2020,0
+Terengganu,3/7/2020,0
+Kelantan,3/7/2020,0
+Sabah,3/7/2020,2
+Sarawak,3/7/2020,0
+Kuala Lumpur,3/7/2020,0
+Putrajaya,3/7/2020,0
+Labuan,3/7/2020,0
+Perlis,4/7/2020,0
+Kedah,4/7/2020,0
+Pulau Pinang,4/7/2020,0
+Perak,4/7/2020,0
+Selangor,4/7/2020,7
+Negeri Sembilan,4/7/2020,1
+Melaka,4/7/2020,0
+Johor,4/7/2020,0
+Pahang,4/7/2020,0
+Terengganu,4/7/2020,0
+Kelantan,4/7/2020,0
+Sabah,4/7/2020,1
+Sarawak,4/7/2020,0
+Kuala Lumpur,4/7/2020,1
+Putrajaya,4/7/2020,0
+Labuan,4/7/2020,0
+Perlis,5/7/2020,0
+Kedah,5/7/2020,0
+Pulau Pinang,5/7/2020,0
+Perak,5/7/2020,0
+Selangor,5/7/2020,2
+Negeri Sembilan,5/7/2020,1
+Melaka,5/7/2020,0
+Johor,5/7/2020,0
+Pahang,5/7/2020,0
+Terengganu,5/7/2020,0
+Kelantan,5/7/2020,0
+Sabah,5/7/2020,2
+Sarawak,5/7/2020,0
+Kuala Lumpur,5/7/2020,0
+Putrajaya,5/7/2020,0
+Labuan,5/7/2020,0
+Perlis,6/7/2020,0
+Kedah,6/7/2020,0
+Pulau Pinang,6/7/2020,0
+Perak,6/7/2020,0
+Selangor,6/7/2020,2
+Negeri Sembilan,6/7/2020,0
+Melaka,6/7/2020,0
+Johor,6/7/2020,1
+Pahang,6/7/2020,0
+Terengganu,6/7/2020,0
+Kelantan,6/7/2020,0
+Sabah,6/7/2020,0
+Sarawak,6/7/2020,1
+Kuala Lumpur,6/7/2020,1
+Putrajaya,6/7/2020,0
+Labuan,6/7/2020,0
+Perlis,7/7/2020,0
+Kedah,7/7/2020,0
+Pulau Pinang,7/7/2020,0
+Perak,7/7/2020,0
+Selangor,7/7/2020,3
+Negeri Sembilan,7/7/2020,0
+Melaka,7/7/2020,0
+Johor,7/7/2020,1
+Pahang,7/7/2020,0
+Terengganu,7/7/2020,0
+Kelantan,7/7/2020,0
+Sabah,7/7/2020,0
+Sarawak,7/7/2020,0
+Kuala Lumpur,7/7/2020,2
+Putrajaya,7/7/2020,0
+Labuan,7/7/2020,0
+Perlis,8/7/2020,0
+Kedah,8/7/2020,0
+Pulau Pinang,8/7/2020,0
+Perak,8/7/2020,0
+Selangor,8/7/2020,1
+Negeri Sembilan,8/7/2020,0
+Melaka,8/7/2020,0
+Johor,8/7/2020,0
+Pahang,8/7/2020,0
+Terengganu,8/7/2020,0
+Kelantan,8/7/2020,0
+Sabah,8/7/2020,0
+Sarawak,8/7/2020,1
+Kuala Lumpur,8/7/2020,1
+Putrajaya,8/7/2020,0
+Labuan,8/7/2020,0
+Perlis,9/7/2020,0
+Kedah,9/7/2020,0
+Pulau Pinang,9/7/2020,0
+Perak,9/7/2020,0
+Selangor,9/7/2020,4
+Negeri Sembilan,9/7/2020,0
+Melaka,9/7/2020,0
+Johor,9/7/2020,2
+Pahang,9/7/2020,0
+Terengganu,9/7/2020,0
+Kelantan,9/7/2020,0
+Sabah,9/7/2020,0
+Sarawak,9/7/2020,0
+Kuala Lumpur,9/7/2020,0
+Putrajaya,9/7/2020,0
+Labuan,9/7/2020,0
+Perlis,10/7/2020,0
+Kedah,10/7/2020,1
+Pulau Pinang,10/7/2020,0
+Perak,10/7/2020,0
+Selangor,10/7/2020,6
+Negeri Sembilan,10/7/2020,0
+Melaka,10/7/2020,0
+Johor,10/7/2020,1
+Pahang,10/7/2020,0
+Terengganu,10/7/2020,0
+Kelantan,10/7/2020,0
+Sabah,10/7/2020,0
+Sarawak,10/7/2020,2
+Kuala Lumpur,10/7/2020,3
+Putrajaya,10/7/2020,0
+Labuan,10/7/2020,0
+Perlis,11/7/2020,0
+Kedah,11/7/2020,0
+Pulau Pinang,11/7/2020,0
+Perak,11/7/2020,0
+Selangor,11/7/2020,3
+Negeri Sembilan,11/7/2020,0
+Melaka,11/7/2020,0
+Johor,11/7/2020,2
+Pahang,11/7/2020,0
+Terengganu,11/7/2020,0
+Kelantan,11/7/2020,0
+Sabah,11/7/2020,1
+Sarawak,11/7/2020,2
+Kuala Lumpur,11/7/2020,0
+Putrajaya,11/7/2020,0
+Labuan,11/7/2020,0
+Perlis,12/7/2020,0
+Kedah,12/7/2020,0
+Pulau Pinang,12/7/2020,0
+Perak,12/7/2020,0
+Selangor,12/7/2020,9
+Negeri Sembilan,12/7/2020,0
+Melaka,12/7/2020,1
+Johor,12/7/2020,0
+Pahang,12/7/2020,0
+Terengganu,12/7/2020,0
+Kelantan,12/7/2020,0
+Sabah,12/7/2020,1
+Sarawak,12/7/2020,2
+Kuala Lumpur,12/7/2020,0
+Putrajaya,12/7/2020,1
+Labuan,12/7/2020,0
+Perlis,13/7/2020,0
+Kedah,13/7/2020,1
+Pulau Pinang,13/7/2020,0
+Perak,13/7/2020,0
+Selangor,13/7/2020,4
+Negeri Sembilan,13/7/2020,0
+Melaka,13/7/2020,1
+Johor,13/7/2020,0
+Pahang,13/7/2020,0
+Terengganu,13/7/2020,0
+Kelantan,13/7/2020,0
+Sabah,13/7/2020,0
+Sarawak,13/7/2020,1
+Kuala Lumpur,13/7/2020,0
+Putrajaya,13/7/2020,0
+Labuan,13/7/2020,0
+Perlis,14/7/2020,0
+Kedah,14/7/2020,0
+Pulau Pinang,14/7/2020,0
+Perak,14/7/2020,0
+Selangor,14/7/2020,1
+Negeri Sembilan,14/7/2020,0
+Melaka,14/7/2020,0
+Johor,14/7/2020,2
+Pahang,14/7/2020,0
+Terengganu,14/7/2020,0
+Kelantan,14/7/2020,0
+Sabah,14/7/2020,0
+Sarawak,14/7/2020,0
+Kuala Lumpur,14/7/2020,1
+Putrajaya,14/7/2020,0
+Labuan,14/7/2020,0
+Perlis,15/7/2020,0
+Kedah,15/7/2020,0
+Pulau Pinang,15/7/2020,0
+Perak,15/7/2020,0
+Selangor,15/7/2020,1
+Negeri Sembilan,15/7/2020,0
+Melaka,15/7/2020,0
+Johor,15/7/2020,0
+Pahang,15/7/2020,0
+Terengganu,15/7/2020,0
+Kelantan,15/7/2020,0
+Sabah,15/7/2020,0
+Sarawak,15/7/2020,3
+Kuala Lumpur,15/7/2020,1
+Putrajaya,15/7/2020,0
+Labuan,15/7/2020,0
+Perlis,16/7/2020,0
+Kedah,16/7/2020,0
+Pulau Pinang,16/7/2020,0
+Perak,16/7/2020,0
+Selangor,16/7/2020,0
+Negeri Sembilan,16/7/2020,0
+Melaka,16/7/2020,0
+Johor,16/7/2020,0
+Pahang,16/7/2020,0
+Terengganu,16/7/2020,1
+Kelantan,16/7/2020,0
+Sabah,16/7/2020,0
+Sarawak,16/7/2020,1
+Kuala Lumpur,16/7/2020,1
+Putrajaya,16/7/2020,0
+Labuan,16/7/2020,0
+Perlis,17/7/2020,0
+Kedah,17/7/2020,0
+Pulau Pinang,17/7/2020,0
+Perak,17/7/2020,0
+Selangor,17/7/2020,4
+Negeri Sembilan,17/7/2020,0
+Melaka,17/7/2020,0
+Johor,17/7/2020,0
+Pahang,17/7/2020,0
+Terengganu,17/7/2020,2
+Kelantan,17/7/2020,0
+Sabah,17/7/2020,1
+Sarawak,17/7/2020,10
+Kuala Lumpur,17/7/2020,1
+Putrajaya,17/7/2020,0
+Labuan,17/7/2020,0
+Perlis,18/7/2020,0
+Kedah,18/7/2020,0
+Pulau Pinang,18/7/2020,0
+Perak,18/7/2020,0
+Selangor,18/7/2020,1
+Negeri Sembilan,18/7/2020,0
+Melaka,18/7/2020,0
+Johor,18/7/2020,0
+Pahang,18/7/2020,0
+Terengganu,18/7/2020,0
+Kelantan,18/7/2020,1
+Sabah,18/7/2020,0
+Sarawak,18/7/2020,7
+Kuala Lumpur,18/7/2020,0
+Putrajaya,18/7/2020,0
+Labuan,18/7/2020,0
+Perlis,19/7/2020,0
+Kedah,19/7/2020,0
+Pulau Pinang,19/7/2020,0
+Perak,19/7/2020,2
+Selangor,19/7/2020,4
+Negeri Sembilan,19/7/2020,0
+Melaka,19/7/2020,0
+Johor,19/7/2020,1
+Pahang,19/7/2020,0
+Terengganu,19/7/2020,0
+Kelantan,19/7/2020,0
+Sabah,19/7/2020,1
+Sarawak,19/7/2020,6
+Kuala Lumpur,19/7/2020,1
+Putrajaya,19/7/2020,0
+Labuan,19/7/2020,0
+Perlis,20/7/2020,0
+Kedah,20/7/2020,1
+Pulau Pinang,20/7/2020,0
+Perak,20/7/2020,0
+Selangor,20/7/2020,4
+Negeri Sembilan,20/7/2020,1
+Melaka,20/7/2020,0
+Johor,20/7/2020,14
+Pahang,20/7/2020,0
+Terengganu,20/7/2020,0
+Kelantan,20/7/2020,0
+Sabah,20/7/2020,0
+Sarawak,20/7/2020,1
+Kuala Lumpur,20/7/2020,0
+Putrajaya,20/7/2020,0
+Labuan,20/7/2020,0
+Perlis,21/7/2020,0
+Kedah,21/7/2020,0
+Pulau Pinang,21/7/2020,0
+Perak,21/7/2020,0
+Selangor,21/7/2020,2
+Negeri Sembilan,21/7/2020,0
+Melaka,21/7/2020,0
+Johor,21/7/2020,0
+Pahang,21/7/2020,0
+Terengganu,21/7/2020,0
+Kelantan,21/7/2020,0
+Sabah,21/7/2020,1
+Sarawak,21/7/2020,11
+Kuala Lumpur,21/7/2020,1
+Putrajaya,21/7/2020,0
+Labuan,21/7/2020,0
+Perlis,22/7/2020,0
+Kedah,22/7/2020,0
+Pulau Pinang,22/7/2020,0
+Perak,22/7/2020,1
+Selangor,22/7/2020,3
+Negeri Sembilan,22/7/2020,0
+Melaka,22/7/2020,0
+Johor,22/7/2020,1
+Pahang,22/7/2020,0
+Terengganu,22/7/2020,0
+Kelantan,22/7/2020,0
+Sabah,22/7/2020,0
+Sarawak,22/7/2020,9
+Kuala Lumpur,22/7/2020,2
+Putrajaya,22/7/2020,0
+Labuan,22/7/2020,0
+Perlis,23/7/2020,0
+Kedah,23/7/2020,0
+Pulau Pinang,23/7/2020,0
+Perak,23/7/2020,0
+Selangor,23/7/2020,0
+Negeri Sembilan,23/7/2020,0
+Melaka,23/7/2020,0
+Johor,23/7/2020,1
+Pahang,23/7/2020,1
+Terengganu,23/7/2020,0
+Kelantan,23/7/2020,1
+Sabah,23/7/2020,1
+Sarawak,23/7/2020,4
+Kuala Lumpur,23/7/2020,1
+Putrajaya,23/7/2020,0
+Labuan,23/7/2020,0
+Perlis,24/7/2020,0
+Kedah,24/7/2020,0
+Pulau Pinang,24/7/2020,0
+Perak,24/7/2020,1
+Selangor,24/7/2020,3
+Negeri Sembilan,24/7/2020,0
+Melaka,24/7/2020,0
+Johor,24/7/2020,2
+Pahang,24/7/2020,3
+Terengganu,24/7/2020,0
+Kelantan,24/7/2020,0
+Sabah,24/7/2020,0
+Sarawak,24/7/2020,9
+Kuala Lumpur,24/7/2020,3
+Putrajaya,24/7/2020,0
+Labuan,24/7/2020,0
+Perlis,25/7/2020,0
+Kedah,25/7/2020,0
+Pulau Pinang,25/7/2020,0
+Perak,25/7/2020,0
+Selangor,25/7/2020,3
+Negeri Sembilan,25/7/2020,0
+Melaka,25/7/2020,0
+Johor,25/7/2020,10
+Pahang,25/7/2020,0
+Terengganu,25/7/2020,0
+Kelantan,25/7/2020,0
+Sabah,25/7/2020,0
+Sarawak,25/7/2020,8
+Kuala Lumpur,25/7/2020,1
+Putrajaya,25/7/2020,0
+Labuan,25/7/2020,1
+Perlis,26/7/2020,0
+Kedah,26/7/2020,0
+Pulau Pinang,26/7/2020,0
+Perak,26/7/2020,0
+Selangor,26/7/2020,0
+Negeri Sembilan,26/7/2020,0
+Melaka,26/7/2020,0
+Johor,26/7/2020,7
+Pahang,26/7/2020,1
+Terengganu,26/7/2020,0
+Kelantan,26/7/2020,1
+Sabah,26/7/2020,1
+Sarawak,26/7/2020,1
+Kuala Lumpur,26/7/2020,2
+Putrajaya,26/7/2020,0
+Labuan,26/7/2020,0
+Perlis,27/7/2020,0
+Kedah,27/7/2020,0
+Pulau Pinang,27/7/2020,0
+Perak,27/7/2020,0
+Selangor,27/7/2020,1
+Negeri Sembilan,27/7/2020,0
+Melaka,27/7/2020,0
+Johor,27/7/2020,0
+Pahang,27/7/2020,0
+Terengganu,27/7/2020,0
+Kelantan,27/7/2020,0
+Sabah,27/7/2020,4
+Sarawak,27/7/2020,0
+Kuala Lumpur,27/7/2020,2
+Putrajaya,27/7/2020,0
+Labuan,27/7/2020,0
+Perlis,28/7/2020,0
+Kedah,28/7/2020,6
+Pulau Pinang,28/7/2020,0
+Perak,28/7/2020,0
+Selangor,28/7/2020,0
+Negeri Sembilan,28/7/2020,0
+Melaka,28/7/2020,0
+Johor,28/7/2020,0
+Pahang,28/7/2020,0
+Terengganu,28/7/2020,0
+Kelantan,28/7/2020,0
+Sabah,28/7/2020,3
+Sarawak,28/7/2020,25
+Kuala Lumpur,28/7/2020,4
+Putrajaya,28/7/2020,0
+Labuan,28/7/2020,1
+Perlis,29/7/2020,1
+Kedah,29/7/2020,0
+Pulau Pinang,29/7/2020,0
+Perak,29/7/2020,0
+Selangor,29/7/2020,2
+Negeri Sembilan,29/7/2020,0
+Melaka,29/7/2020,0
+Johor,29/7/2020,1
+Pahang,29/7/2020,0
+Terengganu,29/7/2020,0
+Kelantan,29/7/2020,0
+Sabah,29/7/2020,1
+Sarawak,29/7/2020,2
+Kuala Lumpur,29/7/2020,6
+Putrajaya,29/7/2020,0
+Labuan,29/7/2020,0
+Perlis,30/7/2020,0
+Kedah,30/7/2020,1
+Pulau Pinang,30/7/2020,0
+Perak,30/7/2020,0
+Selangor,30/7/2020,1
+Negeri Sembilan,30/7/2020,0
+Melaka,30/7/2020,0
+Johor,30/7/2020,1
+Pahang,30/7/2020,0
+Terengganu,30/7/2020,0
+Kelantan,30/7/2020,0
+Sabah,30/7/2020,4
+Sarawak,30/7/2020,0
+Kuala Lumpur,30/7/2020,1
+Putrajaya,30/7/2020,0
+Labuan,30/7/2020,0
+Perlis,31/7/2020,0
+Kedah,31/7/2020,2
+Pulau Pinang,31/7/2020,0
+Perak,31/7/2020,0
+Selangor,31/7/2020,1
+Negeri Sembilan,31/7/2020,1
+Melaka,31/7/2020,0
+Johor,31/7/2020,3
+Pahang,31/7/2020,0
+Terengganu,31/7/2020,0
+Kelantan,31/7/2020,0
+Sabah,31/7/2020,1
+Sarawak,31/7/2020,1
+Kuala Lumpur,31/7/2020,3
+Putrajaya,31/7/2020,0
+Labuan,31/7/2020,0
+Perlis,1/8/2020,0
+Kedah,1/8/2020,1
+Pulau Pinang,1/8/2020,0
+Perak,1/8/2020,2
+Selangor,1/8/2020,6
+Negeri Sembilan,1/8/2020,0
+Melaka,1/8/2020,0
+Johor,1/8/2020,0
+Pahang,1/8/2020,0
+Terengganu,1/8/2020,0
+Kelantan,1/8/2020,0
+Sabah,1/8/2020,0
+Sarawak,1/8/2020,0
+Kuala Lumpur,1/8/2020,0
+Putrajaya,1/8/2020,0
+Labuan,1/8/2020,0
+Perlis,2/8/2020,0
+Kedah,2/8/2020,11
+Pulau Pinang,2/8/2020,0
+Perak,2/8/2020,0
+Selangor,2/8/2020,1
+Negeri Sembilan,2/8/2020,0
+Melaka,2/8/2020,0
+Johor,2/8/2020,0
+Pahang,2/8/2020,0
+Terengganu,2/8/2020,0
+Kelantan,2/8/2020,0
+Sabah,2/8/2020,2
+Sarawak,2/8/2020,0
+Kuala Lumpur,2/8/2020,0
+Putrajaya,2/8/2020,0
+Labuan,2/8/2020,0
+Perlis,3/8/2020,0
+Kedah,3/8/2020,1
+Pulau Pinang,3/8/2020,0
+Perak,3/8/2020,0
+Selangor,3/8/2020,0
+Negeri Sembilan,3/8/2020,0
+Melaka,3/8/2020,0
+Johor,3/8/2020,0
+Pahang,3/8/2020,0
+Terengganu,3/8/2020,0
+Kelantan,3/8/2020,0
+Sabah,3/8/2020,0
+Sarawak,3/8/2020,0
+Kuala Lumpur,3/8/2020,0
+Putrajaya,3/8/2020,0
+Labuan,3/8/2020,1
+Perlis,4/8/2020,1
+Kedah,4/8/2020,0
+Pulau Pinang,4/8/2020,0
+Perak,4/8/2020,0
+Selangor,4/8/2020,0
+Negeri Sembilan,4/8/2020,0
+Melaka,4/8/2020,0
+Johor,4/8/2020,0
+Pahang,4/8/2020,0
+Terengganu,4/8/2020,0
+Kelantan,4/8/2020,0
+Sabah,4/8/2020,0
+Sarawak,4/8/2020,0
+Kuala Lumpur,4/8/2020,0
+Putrajaya,4/8/2020,0
+Labuan,4/8/2020,0
+Perlis,5/8/2020,0
+Kedah,5/8/2020,3
+Pulau Pinang,5/8/2020,0
+Perak,5/8/2020,0
+Selangor,5/8/2020,0
+Negeri Sembilan,5/8/2020,0
+Melaka,5/8/2020,0
+Johor,5/8/2020,1
+Pahang,5/8/2020,0
+Terengganu,5/8/2020,0
+Kelantan,5/8/2020,0
+Sabah,5/8/2020,2
+Sarawak,5/8/2020,0
+Kuala Lumpur,5/8/2020,15
+Putrajaya,5/8/2020,0
+Labuan,5/8/2020,0
+Perlis,6/8/2020,0
+Kedah,6/8/2020,6
+Pulau Pinang,6/8/2020,0
+Perak,6/8/2020,0
+Selangor,6/8/2020,0
+Negeri Sembilan,6/8/2020,2
+Melaka,6/8/2020,0
+Johor,6/8/2020,0
+Pahang,6/8/2020,0
+Terengganu,6/8/2020,0
+Kelantan,6/8/2020,0
+Sabah,6/8/2020,4
+Sarawak,6/8/2020,0
+Kuala Lumpur,6/8/2020,2
+Putrajaya,6/8/2020,0
+Labuan,6/8/2020,1
+Perlis,7/8/2020,10
+Kedah,7/8/2020,1
+Pulau Pinang,7/8/2020,1
+Perak,7/8/2020,2
+Selangor,7/8/2020,2
+Negeri Sembilan,7/8/2020,0
+Melaka,7/8/2020,0
+Johor,7/8/2020,1
+Pahang,7/8/2020,0
+Terengganu,7/8/2020,0
+Kelantan,7/8/2020,0
+Sabah,7/8/2020,4
+Sarawak,7/8/2020,1
+Kuala Lumpur,7/8/2020,3
+Putrajaya,7/8/2020,0
+Labuan,7/8/2020,0
+Perlis,8/8/2020,0
+Kedah,8/8/2020,0
+Pulau Pinang,8/8/2020,0
+Perak,8/8/2020,0
+Selangor,8/8/2020,1
+Negeri Sembilan,8/8/2020,1
+Melaka,8/8/2020,0
+Johor,8/8/2020,0
+Pahang,8/8/2020,0
+Terengganu,8/8/2020,0
+Kelantan,8/8/2020,0
+Sabah,8/8/2020,0
+Sarawak,8/8/2020,1
+Kuala Lumpur,8/8/2020,3
+Putrajaya,8/8/2020,0
+Labuan,8/8/2020,1
+Perlis,9/8/2020,0
+Kedah,9/8/2020,0
+Pulau Pinang,9/8/2020,3
+Perak,9/8/2020,0
+Selangor,9/8/2020,1
+Negeri Sembilan,9/8/2020,0
+Melaka,9/8/2020,0
+Johor,9/8/2020,0
+Pahang,9/8/2020,0
+Terengganu,9/8/2020,0
+Kelantan,9/8/2020,0
+Sabah,9/8/2020,0
+Sarawak,9/8/2020,1
+Kuala Lumpur,9/8/2020,7
+Putrajaya,9/8/2020,1
+Labuan,9/8/2020,0
+Perlis,10/8/2020,0
+Kedah,10/8/2020,0
+Pulau Pinang,10/8/2020,0
+Perak,10/8/2020,3
+Selangor,10/8/2020,4
+Negeri Sembilan,10/8/2020,0
+Melaka,10/8/2020,1
+Johor,10/8/2020,2
+Pahang,10/8/2020,0
+Terengganu,10/8/2020,0
+Kelantan,10/8/2020,0
+Sabah,10/8/2020,0
+Sarawak,10/8/2020,0
+Kuala Lumpur,10/8/2020,1
+Putrajaya,10/8/2020,0
+Labuan,10/8/2020,0
+Perlis,11/8/2020,0
+Kedah,11/8/2020,0
+Pulau Pinang,11/8/2020,0
+Perak,11/8/2020,0
+Selangor,11/8/2020,1
+Negeri Sembilan,11/8/2020,0
+Melaka,11/8/2020,0
+Johor,11/8/2020,1
+Pahang,11/8/2020,0
+Terengganu,11/8/2020,0
+Kelantan,11/8/2020,0
+Sabah,11/8/2020,1
+Sarawak,11/8/2020,0
+Kuala Lumpur,11/8/2020,6
+Putrajaya,11/8/2020,0
+Labuan,11/8/2020,0
+Perlis,12/8/2020,0
+Kedah,12/8/2020,2
+Pulau Pinang,12/8/2020,0
+Perak,12/8/2020,0
+Selangor,12/8/2020,0
+Negeri Sembilan,12/8/2020,0
+Melaka,12/8/2020,0
+Johor,12/8/2020,2
+Pahang,12/8/2020,0
+Terengganu,12/8/2020,0
+Kelantan,12/8/2020,0
+Sabah,12/8/2020,4
+Sarawak,12/8/2020,0
+Kuala Lumpur,12/8/2020,3
+Putrajaya,12/8/2020,0
+Labuan,12/8/2020,0
+Perlis,13/8/2020,0
+Kedah,13/8/2020,9
+Pulau Pinang,13/8/2020,0
+Perak,13/8/2020,0
+Selangor,13/8/2020,3
+Negeri Sembilan,13/8/2020,0
+Melaka,13/8/2020,0
+Johor,13/8/2020,0
+Pahang,13/8/2020,0
+Terengganu,13/8/2020,0
+Kelantan,13/8/2020,0
+Sabah,13/8/2020,0
+Sarawak,13/8/2020,0
+Kuala Lumpur,13/8/2020,3
+Putrajaya,13/8/2020,0
+Labuan,13/8/2020,0
+Perlis,14/8/2020,0
+Kedah,14/8/2020,12
+Pulau Pinang,14/8/2020,1
+Perak,14/8/2020,0
+Selangor,14/8/2020,2
+Negeri Sembilan,14/8/2020,0
+Melaka,14/8/2020,0
+Johor,14/8/2020,0
+Pahang,14/8/2020,0
+Terengganu,14/8/2020,0
+Kelantan,14/8/2020,0
+Sabah,14/8/2020,0
+Sarawak,14/8/2020,1
+Kuala Lumpur,14/8/2020,4
+Putrajaya,14/8/2020,0
+Labuan,14/8/2020,0
+Perlis,15/8/2020,1
+Kedah,15/8/2020,14
+Pulau Pinang,15/8/2020,2
+Perak,15/8/2020,0
+Selangor,15/8/2020,0
+Negeri Sembilan,15/8/2020,2
+Melaka,15/8/2020,0
+Johor,15/8/2020,1
+Pahang,15/8/2020,0
+Terengganu,15/8/2020,0
+Kelantan,15/8/2020,0
+Sabah,15/8/2020,0
+Sarawak,15/8/2020,0
+Kuala Lumpur,15/8/2020,6
+Putrajaya,15/8/2020,0
+Labuan,15/8/2020,0
+Perlis,16/8/2020,0
+Kedah,16/8/2020,5
+Pulau Pinang,16/8/2020,1
+Perak,16/8/2020,0
+Selangor,16/8/2020,5
+Negeri Sembilan,16/8/2020,0
+Melaka,16/8/2020,0
+Johor,16/8/2020,0
+Pahang,16/8/2020,0
+Terengganu,16/8/2020,0
+Kelantan,16/8/2020,0
+Sabah,16/8/2020,1
+Sarawak,16/8/2020,0
+Kuala Lumpur,16/8/2020,13
+Putrajaya,16/8/2020,0
+Labuan,16/8/2020,0
+Perlis,17/8/2020,0
+Kedah,17/8/2020,6
+Pulau Pinang,17/8/2020,3
+Perak,17/8/2020,0
+Selangor,17/8/2020,1
+Negeri Sembilan,17/8/2020,0
+Melaka,17/8/2020,0
+Johor,17/8/2020,0
+Pahang,17/8/2020,0
+Terengganu,17/8/2020,0
+Kelantan,17/8/2020,0
+Sabah,17/8/2020,0
+Sarawak,17/8/2020,0
+Kuala Lumpur,17/8/2020,2
+Putrajaya,17/8/2020,0
+Labuan,17/8/2020,0
+Perlis,18/8/2020,0
+Kedah,18/8/2020,3
+Pulau Pinang,18/8/2020,0
+Perak,18/8/2020,0
+Selangor,18/8/2020,0
+Negeri Sembilan,18/8/2020,0
+Melaka,18/8/2020,0
+Johor,18/8/2020,0
+Pahang,18/8/2020,0
+Terengganu,18/8/2020,0
+Kelantan,18/8/2020,0
+Sabah,18/8/2020,0
+Sarawak,18/8/2020,0
+Kuala Lumpur,18/8/2020,4
+Putrajaya,18/8/2020,0
+Labuan,18/8/2020,0
+Perlis,19/8/2020,0
+Kedah,19/8/2020,7
+Pulau Pinang,19/8/2020,4
+Perak,19/8/2020,0
+Selangor,19/8/2020,0
+Negeri Sembilan,19/8/2020,0
+Melaka,19/8/2020,0
+Johor,19/8/2020,1
+Pahang,19/8/2020,0
+Terengganu,19/8/2020,0
+Kelantan,19/8/2020,0
+Sabah,19/8/2020,0
+Sarawak,19/8/2020,0
+Kuala Lumpur,19/8/2020,3
+Putrajaya,19/8/2020,0
+Labuan,19/8/2020,1
+Perlis,20/8/2020,0
+Kedah,20/8/2020,0
+Pulau Pinang,20/8/2020,0
+Perak,20/8/2020,0
+Selangor,20/8/2020,1
+Negeri Sembilan,20/8/2020,0
+Melaka,20/8/2020,0
+Johor,20/8/2020,0
+Pahang,20/8/2020,0
+Terengganu,20/8/2020,0
+Kelantan,20/8/2020,0
+Sabah,20/8/2020,0
+Sarawak,20/8/2020,4
+Kuala Lumpur,20/8/2020,0
+Putrajaya,20/8/2020,0
+Labuan,20/8/2020,0
+Perlis,21/8/2020,3
+Kedah,21/8/2020,0
+Pulau Pinang,21/8/2020,0
+Perak,21/8/2020,2
+Selangor,21/8/2020,0
+Negeri Sembilan,21/8/2020,0
+Melaka,21/8/2020,0
+Johor,21/8/2020,0
+Pahang,21/8/2020,0
+Terengganu,21/8/2020,0
+Kelantan,21/8/2020,0
+Sabah,21/8/2020,0
+Sarawak,21/8/2020,1
+Kuala Lumpur,21/8/2020,3
+Putrajaya,21/8/2020,0
+Labuan,21/8/2020,0
+Perlis,22/8/2020,0
+Kedah,22/8/2020,5
+Pulau Pinang,22/8/2020,0
+Perak,22/8/2020,0
+Selangor,22/8/2020,0
+Negeri Sembilan,22/8/2020,0
+Melaka,22/8/2020,0
+Johor,22/8/2020,0
+Pahang,22/8/2020,0
+Terengganu,22/8/2020,0
+Kelantan,22/8/2020,0
+Sabah,22/8/2020,1
+Sarawak,22/8/2020,1
+Kuala Lumpur,22/8/2020,1
+Putrajaya,22/8/2020,0
+Labuan,22/8/2020,0
+Perlis,23/8/2020,0
+Kedah,23/8/2020,2
+Pulau Pinang,23/8/2020,0
+Perak,23/8/2020,0
+Selangor,23/8/2020,2
+Negeri Sembilan,23/8/2020,0
+Melaka,23/8/2020,0
+Johor,23/8/2020,0
+Pahang,23/8/2020,0
+Terengganu,23/8/2020,0
+Kelantan,23/8/2020,0
+Sabah,23/8/2020,0
+Sarawak,23/8/2020,3
+Kuala Lumpur,23/8/2020,3
+Putrajaya,23/8/2020,0
+Labuan,23/8/2020,0
+Perlis,24/8/2020,0
+Kedah,24/8/2020,0
+Pulau Pinang,24/8/2020,0
+Perak,24/8/2020,0
+Selangor,24/8/2020,0
+Negeri Sembilan,24/8/2020,0
+Melaka,24/8/2020,0
+Johor,24/8/2020,0
+Pahang,24/8/2020,0
+Terengganu,24/8/2020,0
+Kelantan,24/8/2020,0
+Sabah,24/8/2020,0
+Sarawak,24/8/2020,5
+Kuala Lumpur,24/8/2020,2
+Putrajaya,24/8/2020,0
+Labuan,24/8/2020,0
+Perlis,25/8/2020,1
+Kedah,25/8/2020,7
+Pulau Pinang,25/8/2020,0
+Perak,25/8/2020,0
+Selangor,25/8/2020,3
+Negeri Sembilan,25/8/2020,0
+Melaka,25/8/2020,0
+Johor,25/8/2020,0
+Pahang,25/8/2020,0
+Terengganu,25/8/2020,0
+Kelantan,25/8/2020,0
+Sabah,25/8/2020,0
+Sarawak,25/8/2020,0
+Kuala Lumpur,25/8/2020,0
+Putrajaya,25/8/2020,0
+Labuan,25/8/2020,0
+Perlis,26/8/2020,0
+Kedah,26/8/2020,5
+Pulau Pinang,26/8/2020,0
+Perak,26/8/2020,0
+Selangor,26/8/2020,1
+Negeri Sembilan,26/8/2020,0
+Melaka,26/8/2020,0
+Johor,26/8/2020,0
+Pahang,26/8/2020,0
+Terengganu,26/8/2020,0
+Kelantan,26/8/2020,0
+Sabah,26/8/2020,0
+Sarawak,26/8/2020,0
+Kuala Lumpur,26/8/2020,0
+Putrajaya,26/8/2020,0
+Labuan,26/8/2020,0
+Perlis,27/8/2020,0
+Kedah,27/8/2020,0
+Pulau Pinang,27/8/2020,0
+Perak,27/8/2020,0
+Selangor,27/8/2020,2
+Negeri Sembilan,27/8/2020,0
+Melaka,27/8/2020,3
+Johor,27/8/2020,0
+Pahang,27/8/2020,0
+Terengganu,27/8/2020,0
+Kelantan,27/8/2020,0
+Sabah,27/8/2020,0
+Sarawak,27/8/2020,0
+Kuala Lumpur,27/8/2020,0
+Putrajaya,27/8/2020,0
+Labuan,27/8/2020,0
+Perlis,28/8/2020,1
+Kedah,28/8/2020,0
+Pulau Pinang,28/8/2020,0
+Perak,28/8/2020,3
+Selangor,28/8/2020,0
+Negeri Sembilan,28/8/2020,0
+Melaka,28/8/2020,0
+Johor,28/8/2020,0
+Pahang,28/8/2020,0
+Terengganu,28/8/2020,0
+Kelantan,28/8/2020,0
+Sabah,28/8/2020,0
+Sarawak,28/8/2020,1
+Kuala Lumpur,28/8/2020,5
+Putrajaya,28/8/2020,0
+Labuan,28/8/2020,0
+Perlis,29/8/2020,0
+Kedah,29/8/2020,0
+Pulau Pinang,29/8/2020,0
+Perak,29/8/2020,0
+Selangor,29/8/2020,2
+Negeri Sembilan,29/8/2020,0
+Melaka,29/8/2020,0
+Johor,29/8/2020,0
+Pahang,29/8/2020,0
+Terengganu,29/8/2020,0
+Kelantan,29/8/2020,0
+Sabah,29/8/2020,0
+Sarawak,29/8/2020,1
+Kuala Lumpur,29/8/2020,8
+Putrajaya,29/8/2020,0
+Labuan,29/8/2020,0
+Perlis,30/8/2020,0
+Kedah,30/8/2020,1
+Pulau Pinang,30/8/2020,0
+Perak,30/8/2020,0
+Selangor,30/8/2020,1
+Negeri Sembilan,30/8/2020,0
+Melaka,30/8/2020,0
+Johor,30/8/2020,0
+Pahang,30/8/2020,0
+Terengganu,30/8/2020,0
+Kelantan,30/8/2020,0
+Sabah,30/8/2020,0
+Sarawak,30/8/2020,1
+Kuala Lumpur,30/8/2020,14
+Putrajaya,30/8/2020,0
+Labuan,30/8/2020,0
+Perlis,31/8/2020,0
+Kedah,31/8/2020,2
+Pulau Pinang,31/8/2020,0
+Perak,31/8/2020,0
+Selangor,31/8/2020,4
+Negeri Sembilan,31/8/2020,0
+Melaka,31/8/2020,0
+Johor,31/8/2020,0
+Pahang,31/8/2020,0
+Terengganu,31/8/2020,0
+Kelantan,31/8/2020,0
+Sabah,31/8/2020,0
+Sarawak,31/8/2020,0
+Kuala Lumpur,31/8/2020,0
+Putrajaya,31/8/2020,0
+Labuan,31/8/2020,0
+Perlis,1/9/2020,0
+Kedah,1/9/2020,2
+Pulau Pinang,1/9/2020,0
+Perak,1/9/2020,0
+Selangor,1/9/2020,3
+Negeri Sembilan,1/9/2020,0
+Melaka,1/9/2020,0
+Johor,1/9/2020,0
+Pahang,1/9/2020,0
+Terengganu,1/9/2020,0
+Kelantan,1/9/2020,0
+Sabah,1/9/2020,9
+Sarawak,1/9/2020,0
+Kuala Lumpur,1/9/2020,0
+Putrajaya,1/9/2020,0
+Labuan,1/9/2020,0
+Perlis,2/9/2020,0
+Kedah,2/9/2020,0
+Pulau Pinang,2/9/2020,0
+Perak,2/9/2020,0
+Selangor,2/9/2020,1
+Negeri Sembilan,2/9/2020,0
+Melaka,2/9/2020,0
+Johor,2/9/2020,0
+Pahang,2/9/2020,1
+Terengganu,2/9/2020,0
+Kelantan,2/9/2020,0
+Sabah,2/9/2020,0
+Sarawak,2/9/2020,0
+Kuala Lumpur,2/9/2020,4
+Putrajaya,2/9/2020,0
+Labuan,2/9/2020,0
+Perlis,3/9/2020,0
+Kedah,3/9/2020,4
+Pulau Pinang,3/9/2020,0
+Perak,3/9/2020,0
+Selangor,3/9/2020,0
+Negeri Sembilan,3/9/2020,2
+Melaka,3/9/2020,0
+Johor,3/9/2020,1
+Pahang,3/9/2020,0
+Terengganu,3/9/2020,0
+Kelantan,3/9/2020,0
+Sabah,3/9/2020,6
+Sarawak,3/9/2020,0
+Kuala Lumpur,3/9/2020,1
+Putrajaya,3/9/2020,0
+Labuan,3/9/2020,0
+Perlis,4/9/2020,0
+Kedah,4/9/2020,1
+Pulau Pinang,4/9/2020,0
+Perak,4/9/2020,0
+Selangor,4/9/2020,2
+Negeri Sembilan,4/9/2020,1
+Melaka,4/9/2020,0
+Johor,4/9/2020,0
+Pahang,4/9/2020,0
+Terengganu,4/9/2020,0
+Kelantan,4/9/2020,0
+Sabah,4/9/2020,0
+Sarawak,4/9/2020,0
+Kuala Lumpur,4/9/2020,7
+Putrajaya,4/9/2020,0
+Labuan,4/9/2020,0
+Perlis,5/9/2020,0
+Kedah,5/9/2020,1
+Pulau Pinang,5/9/2020,0
+Perak,5/9/2020,0
+Selangor,5/9/2020,0
+Negeri Sembilan,5/9/2020,0
+Melaka,5/9/2020,0
+Johor,5/9/2020,0
+Pahang,5/9/2020,0
+Terengganu,5/9/2020,0
+Kelantan,5/9/2020,0
+Sabah,5/9/2020,1
+Sarawak,5/9/2020,0
+Kuala Lumpur,5/9/2020,4
+Putrajaya,5/9/2020,0
+Labuan,5/9/2020,0
+Perlis,6/9/2020,0
+Kedah,6/9/2020,0
+Pulau Pinang,6/9/2020,1
+Perak,6/9/2020,0
+Selangor,6/9/2020,0
+Negeri Sembilan,6/9/2020,0
+Melaka,6/9/2020,0
+Johor,6/9/2020,0
+Pahang,6/9/2020,0
+Terengganu,6/9/2020,0
+Kelantan,6/9/2020,0
+Sabah,6/9/2020,2
+Sarawak,6/9/2020,0
+Kuala Lumpur,6/9/2020,3
+Putrajaya,6/9/2020,0
+Labuan,6/9/2020,0
+Perlis,7/9/2020,0
+Kedah,7/9/2020,4
+Pulau Pinang,7/9/2020,1
+Perak,7/9/2020,0
+Selangor,7/9/2020,2
+Negeri Sembilan,7/9/2020,0
+Melaka,7/9/2020,0
+Johor,7/9/2020,0
+Pahang,7/9/2020,0
+Terengganu,7/9/2020,0
+Kelantan,7/9/2020,0
+Sabah,7/9/2020,51
+Sarawak,7/9/2020,0
+Kuala Lumpur,7/9/2020,4
+Putrajaya,7/9/2020,0
+Labuan,7/9/2020,0
+Perlis,8/9/2020,1
+Kedah,8/9/2020,22
+Pulau Pinang,8/9/2020,0
+Perak,8/9/2020,0
+Selangor,8/9/2020,9
+Negeri Sembilan,8/9/2020,1
+Melaka,8/9/2020,0
+Johor,8/9/2020,0
+Pahang,8/9/2020,0
+Terengganu,8/9/2020,0
+Kelantan,8/9/2020,0
+Sabah,8/9/2020,62
+Sarawak,8/9/2020,0
+Kuala Lumpur,8/9/2020,5
+Putrajaya,8/9/2020,0
+Labuan,8/9/2020,0
+Perlis,9/9/2020,0
+Kedah,9/9/2020,16
+Pulau Pinang,9/9/2020,0
+Perak,9/9/2020,0
+Selangor,9/9/2020,1
+Negeri Sembilan,9/9/2020,1
+Melaka,9/9/2020,0
+Johor,9/9/2020,0
+Pahang,9/9/2020,0
+Terengganu,9/9/2020,0
+Kelantan,9/9/2020,0
+Sabah,9/9/2020,4
+Sarawak,9/9/2020,1
+Kuala Lumpur,9/9/2020,1
+Putrajaya,9/9/2020,0
+Labuan,9/9/2020,0
+Perlis,10/9/2020,0
+Kedah,10/9/2020,4
+Pulau Pinang,10/9/2020,0
+Perak,10/9/2020,0
+Selangor,10/9/2020,1
+Negeri Sembilan,10/9/2020,0
+Melaka,10/9/2020,0
+Johor,10/9/2020,0
+Pahang,10/9/2020,0
+Terengganu,10/9/2020,0
+Kelantan,10/9/2020,0
+Sabah,10/9/2020,40
+Sarawak,10/9/2020,0
+Kuala Lumpur,10/9/2020,0
+Putrajaya,10/9/2020,0
+Labuan,10/9/2020,0
+Perlis,11/9/2020,0
+Kedah,11/9/2020,14
+Pulau Pinang,11/9/2020,0
+Perak,11/9/2020,0
+Selangor,11/9/2020,1
+Negeri Sembilan,11/9/2020,0
+Melaka,11/9/2020,0
+Johor,11/9/2020,0
+Pahang,11/9/2020,0
+Terengganu,11/9/2020,0
+Kelantan,11/9/2020,0
+Sabah,11/9/2020,167
+Sarawak,11/9/2020,0
+Kuala Lumpur,11/9/2020,0
+Putrajaya,11/9/2020,0
+Labuan,11/9/2020,0
+Perlis,12/9/2020,0
+Kedah,12/9/2020,5
+Pulau Pinang,12/9/2020,0
+Perak,12/9/2020,0
+Selangor,12/9/2020,2
+Negeri Sembilan,12/9/2020,0
+Melaka,12/9/2020,0
+Johor,12/9/2020,0
+Pahang,12/9/2020,0
+Terengganu,12/9/2020,0
+Kelantan,12/9/2020,0
+Sabah,12/9/2020,49
+Sarawak,12/9/2020,0
+Kuala Lumpur,12/9/2020,2
+Putrajaya,12/9/2020,0
+Labuan,12/9/2020,0
+Perlis,13/9/2020,0
+Kedah,13/9/2020,14
+Pulau Pinang,13/9/2020,0
+Perak,13/9/2020,0
+Selangor,13/9/2020,1
+Negeri Sembilan,13/9/2020,0
+Melaka,13/9/2020,0
+Johor,13/9/2020,0
+Pahang,13/9/2020,0
+Terengganu,13/9/2020,0
+Kelantan,13/9/2020,0
+Sabah,13/9/2020,31
+Sarawak,13/9/2020,0
+Kuala Lumpur,13/9/2020,1
+Putrajaya,13/9/2020,0
+Labuan,13/9/2020,0
+Perlis,14/9/2020,0
+Kedah,14/9/2020,1
+Pulau Pinang,14/9/2020,0
+Perak,14/9/2020,0
+Selangor,14/9/2020,0
+Negeri Sembilan,14/9/2020,4
+Melaka,14/9/2020,0
+Johor,14/9/2020,0
+Pahang,14/9/2020,0
+Terengganu,14/9/2020,0
+Kelantan,14/9/2020,0
+Sabah,14/9/2020,25
+Sarawak,14/9/2020,0
+Kuala Lumpur,14/9/2020,1
+Putrajaya,14/9/2020,0
+Labuan,14/9/2020,0
+Perlis,15/9/2020,0
+Kedah,15/9/2020,0
+Pulau Pinang,15/9/2020,0
+Perak,15/9/2020,0
+Selangor,15/9/2020,5
+Negeri Sembilan,15/9/2020,0
+Melaka,15/9/2020,0
+Johor,15/9/2020,0
+Pahang,15/9/2020,0
+Terengganu,15/9/2020,0
+Kelantan,15/9/2020,0
+Sabah,15/9/2020,13
+Sarawak,15/9/2020,0
+Kuala Lumpur,15/9/2020,5
+Putrajaya,15/9/2020,0
+Labuan,15/9/2020,0
+Perlis,16/9/2020,0
+Kedah,16/9/2020,1
+Pulau Pinang,16/9/2020,1
+Perak,16/9/2020,0
+Selangor,16/9/2020,0
+Negeri Sembilan,16/9/2020,0
+Melaka,16/9/2020,0
+Johor,16/9/2020,0
+Pahang,16/9/2020,0
+Terengganu,16/9/2020,0
+Kelantan,16/9/2020,0
+Sabah,16/9/2020,60
+Sarawak,16/9/2020,0
+Kuala Lumpur,16/9/2020,0
+Putrajaya,16/9/2020,0
+Labuan,16/9/2020,0
+Perlis,17/9/2020,0
+Kedah,17/9/2020,7
+Pulau Pinang,17/9/2020,2
+Perak,17/9/2020,0
+Selangor,17/9/2020,3
+Negeri Sembilan,17/9/2020,0
+Melaka,17/9/2020,0
+Johor,17/9/2020,0
+Pahang,17/9/2020,0
+Terengganu,17/9/2020,0
+Kelantan,17/9/2020,0
+Sabah,17/9/2020,8
+Sarawak,17/9/2020,1
+Kuala Lumpur,17/9/2020,0
+Putrajaya,17/9/2020,0
+Labuan,17/9/2020,0
+Perlis,18/9/2020,0
+Kedah,18/9/2020,3
+Pulau Pinang,18/9/2020,1
+Perak,18/9/2020,0
+Selangor,18/9/2020,3
+Negeri Sembilan,18/9/2020,1
+Melaka,18/9/2020,0
+Johor,18/9/2020,0
+Pahang,18/9/2020,0
+Terengganu,18/9/2020,0
+Kelantan,18/9/2020,0
+Sabah,18/9/2020,91
+Sarawak,18/9/2020,0
+Kuala Lumpur,18/9/2020,0
+Putrajaya,18/9/2020,0
+Labuan,18/9/2020,0
+Perlis,19/9/2020,0
+Kedah,19/9/2020,9
+Pulau Pinang,19/9/2020,0
+Perak,19/9/2020,0
+Selangor,19/9/2020,1
+Negeri Sembilan,19/9/2020,0
+Melaka,19/9/2020,0
+Johor,19/9/2020,0
+Pahang,19/9/2020,0
+Terengganu,19/9/2020,0
+Kelantan,19/9/2020,0
+Sabah,19/9/2020,8
+Sarawak,19/9/2020,0
+Kuala Lumpur,19/9/2020,2
+Putrajaya,19/9/2020,0
+Labuan,19/9/2020,0
+Perlis,20/9/2020,0
+Kedah,20/9/2020,3
+Pulau Pinang,20/9/2020,1
+Perak,20/9/2020,0
+Selangor,20/9/2020,4
+Negeri Sembilan,20/9/2020,0
+Melaka,20/9/2020,0
+Johor,20/9/2020,0
+Pahang,20/9/2020,0
+Terengganu,20/9/2020,0
+Kelantan,20/9/2020,0
+Sabah,20/9/2020,36
+Sarawak,20/9/2020,0
+Kuala Lumpur,20/9/2020,6
+Putrajaya,20/9/2020,0
+Labuan,20/9/2020,2
+Perlis,21/9/2020,0
+Kedah,21/9/2020,1
+Pulau Pinang,21/9/2020,0
+Perak,21/9/2020,0
+Selangor,21/9/2020,4
+Negeri Sembilan,21/9/2020,0
+Melaka,21/9/2020,0
+Johor,21/9/2020,0
+Pahang,21/9/2020,0
+Terengganu,21/9/2020,0
+Kelantan,21/9/2020,0
+Sabah,21/9/2020,49
+Sarawak,21/9/2020,0
+Kuala Lumpur,21/9/2020,3
+Putrajaya,21/9/2020,0
+Labuan,21/9/2020,0
+Perlis,22/9/2020,0
+Kedah,22/9/2020,10
+Pulau Pinang,22/9/2020,0
+Perak,22/9/2020,0
+Selangor,22/9/2020,1
+Negeri Sembilan,22/9/2020,0
+Melaka,22/9/2020,0
+Johor,22/9/2020,0
+Pahang,22/9/2020,0
+Terengganu,22/9/2020,0
+Kelantan,22/9/2020,0
+Sabah,22/9/2020,60
+Sarawak,22/9/2020,2
+Kuala Lumpur,22/9/2020,9
+Putrajaya,22/9/2020,0
+Labuan,22/9/2020,0
+Perlis,23/9/2020,0
+Kedah,23/9/2020,5
+Pulau Pinang,23/9/2020,0
+Perak,23/9/2020,0
+Selangor,23/9/2020,2
+Negeri Sembilan,23/9/2020,0
+Melaka,23/9/2020,0
+Johor,23/9/2020,0
+Pahang,23/9/2020,0
+Terengganu,23/9/2020,0
+Kelantan,23/9/2020,1
+Sabah,23/9/2020,134
+Sarawak,23/9/2020,0
+Kuala Lumpur,23/9/2020,5
+Putrajaya,23/9/2020,0
+Labuan,23/9/2020,0
+Perlis,24/9/2020,0
+Kedah,24/9/2020,4
+Pulau Pinang,24/9/2020,0
+Perak,24/9/2020,0
+Selangor,24/9/2020,3
+Negeri Sembilan,24/9/2020,0
+Melaka,24/9/2020,0
+Johor,24/9/2020,1
+Pahang,24/9/2020,0
+Terengganu,24/9/2020,0
+Kelantan,24/9/2020,0
+Sabah,24/9/2020,63
+Sarawak,24/9/2020,0
+Kuala Lumpur,24/9/2020,0
+Putrajaya,24/9/2020,0
+Labuan,24/9/2020,0
+Perlis,25/9/2020,0
+Kedah,25/9/2020,8
+Pulau Pinang,25/9/2020,0
+Perak,25/9/2020,0
+Selangor,25/9/2020,2
+Negeri Sembilan,25/9/2020,0
+Melaka,25/9/2020,0
+Johor,25/9/2020,1
+Pahang,25/9/2020,1
+Terengganu,25/9/2020,0
+Kelantan,25/9/2020,0
+Sabah,25/9/2020,97
+Sarawak,25/9/2020,0
+Kuala Lumpur,25/9/2020,2
+Putrajaya,25/9/2020,0
+Labuan,25/9/2020,0
+Perlis,26/9/2020,0
+Kedah,26/9/2020,0
+Pulau Pinang,26/9/2020,0
+Perak,26/9/2020,0
+Selangor,26/9/2020,2
+Negeri Sembilan,26/9/2020,3
+Melaka,26/9/2020,1
+Johor,26/9/2020,1
+Pahang,26/9/2020,1
+Terengganu,26/9/2020,2
+Kelantan,26/9/2020,0
+Sabah,26/9/2020,64
+Sarawak,26/9/2020,1
+Kuala Lumpur,26/9/2020,6
+Putrajaya,26/9/2020,0
+Labuan,26/9/2020,1
+Perlis,27/9/2020,0
+Kedah,27/9/2020,0
+Pulau Pinang,27/9/2020,0
+Perak,27/9/2020,0
+Selangor,27/9/2020,11
+Negeri Sembilan,27/9/2020,0
+Melaka,27/9/2020,1
+Johor,27/9/2020,2
+Pahang,27/9/2020,4
+Terengganu,27/9/2020,0
+Kelantan,27/9/2020,0
+Sabah,27/9/2020,124
+Sarawak,27/9/2020,2
+Kuala Lumpur,27/9/2020,6
+Putrajaya,27/9/2020,0
+Labuan,27/9/2020,0
+Perlis,28/9/2020,0
+Kedah,28/9/2020,1
+Pulau Pinang,28/9/2020,0
+Perak,28/9/2020,0
+Selangor,28/9/2020,11
+Negeri Sembilan,28/9/2020,1
+Melaka,28/9/2020,1
+Johor,28/9/2020,0
+Pahang,28/9/2020,0
+Terengganu,28/9/2020,1
+Kelantan,28/9/2020,0
+Sabah,28/9/2020,98
+Sarawak,28/9/2020,0
+Kuala Lumpur,28/9/2020,1
+Putrajaya,28/9/2020,0
+Labuan,28/9/2020,1
+Perlis,29/9/2020,1
+Kedah,29/9/2020,1
+Pulau Pinang,29/9/2020,1
+Perak,29/9/2020,1
+Selangor,29/9/2020,15
+Negeri Sembilan,29/9/2020,0
+Melaka,29/9/2020,1
+Johor,29/9/2020,2
+Pahang,29/9/2020,0
+Terengganu,29/9/2020,0
+Kelantan,29/9/2020,1
+Sabah,29/9/2020,73
+Sarawak,29/9/2020,3
+Kuala Lumpur,29/9/2020,1
+Putrajaya,29/9/2020,1
+Labuan,29/9/2020,0
+Perlis,30/9/2020,2
+Kedah,30/9/2020,13
+Pulau Pinang,30/9/2020,1
+Perak,30/9/2020,1
+Selangor,30/9/2020,10
+Negeri Sembilan,30/9/2020,1
+Melaka,30/9/2020,0
+Johor,30/9/2020,8
+Pahang,30/9/2020,2
+Terengganu,30/9/2020,3
+Kelantan,30/9/2020,2
+Sabah,30/9/2020,35
+Sarawak,30/9/2020,4
+Kuala Lumpur,30/9/2020,6
+Putrajaya,30/9/2020,0
+Labuan,30/9/2020,1
+Perlis,1/10/2020,2
+Kedah,1/10/2020,98
+Pulau Pinang,1/10/2020,1
+Perak,1/10/2020,0
+Selangor,1/10/2020,13
+Negeri Sembilan,1/10/2020,0
+Melaka,1/10/2020,1
+Johor,1/10/2020,5
+Pahang,1/10/2020,1
+Terengganu,1/10/2020,2
+Kelantan,1/10/2020,0
+Sabah,1/10/2020,118
+Sarawak,1/10/2020,0
+Kuala Lumpur,1/10/2020,14
+Putrajaya,1/10/2020,5
+Labuan,1/10/2020,0
+Perlis,2/10/2020,0
+Kedah,2/10/2020,129
+Pulau Pinang,2/10/2020,0
+Perak,2/10/2020,3
+Selangor,2/10/2020,31
+Negeri Sembilan,2/10/2020,2
+Melaka,2/10/2020,0
+Johor,2/10/2020,1
+Pahang,2/10/2020,1
+Terengganu,2/10/2020,3
+Kelantan,2/10/2020,2
+Sabah,2/10/2020,113
+Sarawak,2/10/2020,0
+Kuala Lumpur,2/10/2020,1
+Putrajaya,2/10/2020,0
+Labuan,2/10/2020,1
+Perlis,3/10/2020,0
+Kedah,3/10/2020,102
+Pulau Pinang,3/10/2020,3
+Perak,3/10/2020,0
+Selangor,3/10/2020,32
+Negeri Sembilan,3/10/2020,1
+Melaka,3/10/2020,0
+Johor,3/10/2020,4
+Pahang,3/10/2020,0
+Terengganu,3/10/2020,9
+Kelantan,3/10/2020,2
+Sabah,3/10/2020,155
+Sarawak,3/10/2020,3
+Kuala Lumpur,3/10/2020,4
+Putrajaya,3/10/2020,2
+Labuan,3/10/2020,0
+Perlis,4/10/2020,0
+Kedah,4/10/2020,102
+Pulau Pinang,4/10/2020,3
+Perak,4/10/2020,0
+Selangor,4/10/2020,32
+Negeri Sembilan,4/10/2020,1
+Melaka,4/10/2020,0
+Johor,4/10/2020,4
+Pahang,4/10/2020,0
+Terengganu,4/10/2020,9
+Kelantan,4/10/2020,2
+Sabah,4/10/2020,155
+Sarawak,4/10/2020,3
+Kuala Lumpur,4/10/2020,4
+Putrajaya,4/10/2020,2
+Labuan,4/10/2020,0
+Perlis,5/10/2020,0
+Kedah,5/10/2020,241
+Pulau Pinang,5/10/2020,0
+Perak,5/10/2020,2
+Selangor,5/10/2020,34
+Negeri Sembilan,5/10/2020,1
+Melaka,5/10/2020,1
+Johor,5/10/2020,2
+Pahang,5/10/2020,1
+Terengganu,5/10/2020,5
+Kelantan,5/10/2020,1
+Sabah,5/10/2020,130
+Sarawak,5/10/2020,1
+Kuala Lumpur,5/10/2020,7
+Putrajaya,5/10/2020,2
+Labuan,5/10/2020,4
+Perlis,6/10/2020,0
+Kedah,6/10/2020,397
+Pulau Pinang,6/10/2020,3
+Perak,6/10/2020,8
+Selangor,6/10/2020,39
+Negeri Sembilan,6/10/2020,7
+Melaka,6/10/2020,0
+Johor,6/10/2020,6
+Pahang,6/10/2020,0
+Terengganu,6/10/2020,1
+Kelantan,6/10/2020,0
+Sabah,6/10/2020,219
+Sarawak,6/10/2020,3
+Kuala Lumpur,6/10/2020,6
+Putrajaya,6/10/2020,1
+Labuan,6/10/2020,1
+Perlis,7/10/2020,0
+Kedah,7/10/2020,153
+Pulau Pinang,7/10/2020,7
+Perak,7/10/2020,4
+Selangor,7/10/2020,20
+Negeri Sembilan,7/10/2020,1
+Melaka,7/10/2020,0
+Johor,7/10/2020,6
+Pahang,7/10/2020,2
+Terengganu,7/10/2020,4
+Kelantan,7/10/2020,1
+Sabah,7/10/2020,282
+Sarawak,7/10/2020,3
+Kuala Lumpur,7/10/2020,4
+Putrajaya,7/10/2020,2
+Labuan,7/10/2020,0
+Perlis,8/10/2020,
+Kedah,8/10/2020,
+Pulau Pinang,8/10/2020,
+Perak,8/10/2020,
+Selangor,8/10/2020,
+Negeri Sembilan,8/10/2020,
+Melaka,8/10/2020,
+Johor,8/10/2020,
+Pahang,8/10/2020,
+Terengganu,8/10/2020,
+Kelantan,8/10/2020,
+Sabah,8/10/2020,
+Sarawak,8/10/2020,
+Kuala Lumpur,8/10/2020,
+Putrajaya,8/10/2020,
+Labuan,8/10/2020,
